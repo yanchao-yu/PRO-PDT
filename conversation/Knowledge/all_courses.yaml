@@ -1,0 +1,2059 @@
+courses:
+- course_id: msc-business-management-project-management-postgraduate-online-learning
+  course_title: MSc Business Management (Project Management)
+  award: MSc
+  course_name: Business Management (Project Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management (Project Management) - Postgraduate, Online learning
+- course_id: bm-midwifery-undergraduate-full-time
+  course_title: BM Midwifery
+  award: BM
+  course_name: Midwifery
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BM Midwifery - Undergraduate, Full-time
+- course_id: msc-nursing-pre-registration-mental-health-postgraduate-full-time
+  course_title: MSc Nursing (Pre-registration) Mental Health
+  award: MSc
+  course_name: Nursing (Pre-registration) Mental Health
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Nursing (Pre-registration) Mental Health - Postgraduate, Full-time
+- course_id: ma-screenwriting-postgraduate-full-time
+  course_title: MA Screenwriting
+  award: MA
+  course_name: Screenwriting
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Screenwriting - Postgraduate, Full-time
+- course_id: msc-cyber-security-postgraduate-part-time
+  course_title: MSc Cyber Security
+  award: MSc
+  course_name: Cyber Security
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Cyber Security - Postgraduate, Part-time
+- course_id: bsc-hons-applied-microbiology-undergraduate-part-time
+  course_title: BSc (Hons) Applied Microbiology
+  award: BSc (Hons)
+  course_name: Applied Microbiology
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Applied Microbiology - Undergraduate, Part-time
+- course_id: certificate-of-credit-english-as-a-foreign-language-8-month-undergraduate-full-time
+  course_title: Certificate of credit English as a Foreign Language (8 Month).
+  award: Certificate of credit
+  course_name: English as a Foreign Language (8 Month).
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: Certificate of credit English as a Foreign Language (8 Month). - Undergraduate, Full-time
+- course_id: ba-business-management-with-finance-undergraduate-online-learning
+  course_title: BA Business Management With Finance
+  award: BA
+  course_name: Business Management With Finance
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business Management With Finance - Undergraduate, Online learning
+- course_id: beng-beng-hons-electrical-and-electronic-engineering-undergraduate-part-time
+  course_title: BEng/BEng (Hons) Electrical & Electronic Engineering
+  award: BEng/BEng (Hons)
+  course_name: Electrical & Electronic Engineering
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BEng/BEng (Hons) Electrical & Electronic Engineering - Undergraduate, Part-time
+- course_id: ba-hons-journalism-undergraduate-full-time
+  course_title: BA (Hons) Journalism
+  award: BA (Hons)
+  course_name: Journalism
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Journalism - Undergraduate, Full-time
+- course_id: pgcert-career-guidance-and-development-postgraduate-online-learning
+  course_title: PgCert Career Guidance and Development
+  award: PgCert
+  course_name: Career Guidance and Development
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: PgCert Career Guidance and Development - Postgraduate, Online learning
+- course_id: msc-marketing-with-digital-strategy-postgraduate-full-time
+  course_title: MSc Marketing With Digital Strategy
+  award: MSc
+  course_name: Marketing With Digital Strategy
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Marketing With Digital Strategy - Postgraduate, Full-time
+- course_id: msc-business-analytics-postgraduate-full-time
+  course_title: MSc Business Analytics
+  award: MSc
+  course_name: Business Analytics
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Business Analytics - Postgraduate, Full-time
+- course_id: msc-architectural-technology-and-sustainable-building-performance-postgraduate-full-time
+  course_title: MSc Architectural Technology & Sustainable Building Performance
+  award: MSc
+  course_name: Architectural Technology & Sustainable Building Performance
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Architectural Technology & Sustainable Building Performance - Postgraduate, Full-time
+- course_id: ba-hospitality-and-tourism-management-undergraduate-part-time
+  course_title: BA Hospitality & Tourism Management
+  award: BA
+  course_name: Hospitality & Tourism Management
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BA Hospitality & Tourism Management - Undergraduate, Part-time
+- course_id: ba-hons-intercultural-business-communication-and-tourism-management-undergraduate-full-time
+  course_title: BA (Hons) Intercultural Business Communication and Tourism Management
+  award: BA (Hons)
+  course_name: Intercultural Business Communication and Tourism Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Intercultural Business Communication and Tourism Management - Undergraduate, Full-time
+- course_id: msc-wildlife-biology-and-conservation-postgraduate-part-time
+  course_title: MSc Wildlife Biology & Conservation
+  award: MSc
+  course_name: Wildlife Biology & Conservation
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Wildlife Biology & Conservation - Postgraduate, Part-time
+- course_id: ma-sports-journalism-postgraduate-full-time
+  course_title: MA Sports Journalism
+  award: MA
+  course_name: Sports Journalism
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Sports Journalism - Postgraduate, Full-time
+- course_id: ba-hons-english-undergraduate-full-time
+  course_title: BA (Hons) English
+  award: BA (Hons)
+  course_name: English
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) English - Undergraduate, Full-time
+- course_id: bsc-hons-quantity-surveying-undergraduate-part-time
+  course_title: BSc (Hons) Quantity Surveying
+  award: BSc (Hons)
+  course_name: Quantity Surveying
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Quantity Surveying - Undergraduate, Part-time
+- course_id: pgcert-neonatal-care-qualified-in-speciality-postgraduate-part-time
+  course_title: 'PgCert Neonatal Care: Qualified in Speciality'
+  award: PgCert
+  course_name: 'Neonatal Care: Qualified in Speciality'
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: 'PgCert Neonatal Care: Qualified in Speciality - Postgraduate, Part-time'
+- course_id: bsc-hons-animal-and-conservation-biology-undergraduate-part-time
+  course_title: BSc (Hons) Animal & Conservation Biology
+  award: BSc (Hons)
+  course_name: Animal & Conservation Biology
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Animal & Conservation Biology - Undergraduate, Part-time
+- course_id: ma-heritage-and-exhibition-design-postgraduate-part-time
+  course_title: MA Heritage and Exhibition Design
+  award: MA
+  course_name: Heritage and Exhibition Design
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Heritage and Exhibition Design - Postgraduate, Part-time
+- course_id: msc-cyber-security-postgraduate-full-time
+  course_title: MSc Cyber Security
+  award: MSc
+  course_name: Cyber Security
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Cyber Security - Postgraduate, Full-time
+- course_id: ma-music-postgraduate-full-time
+  course_title: MA Music
+  award: MA
+  course_name: Music
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Music - Postgraduate, Full-time
+- course_id: bdes-hons-interior-and-spatial-design-undergraduate-full-time
+  course_title: BDes (Hons) Interior & Spatial Design
+  award: BDes (Hons)
+  course_name: Interior & Spatial Design
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BDes (Hons) Interior & Spatial Design - Undergraduate, Full-time
+- course_id: msc-healthcare-management-postgraduate-part-time
+  course_title: MSc Healthcare Management
+  award: MSc
+  course_name: Healthcare Management
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Healthcare Management - Postgraduate, Part-time
+- course_id: mba-mba-strategic-project-management-postgraduate-full-time
+  course_title: MBA MBA (Strategic Project Management)
+  award: MBA MBA
+  course_name: (Strategic Project Management)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MBA MBA (Strategic Project Management) - Postgraduate, Full-time
+- course_id: bsc-hons-football-coaching-performance-and-development-with-scottish-fa-undergraduate-full-time
+  course_title: BSc (Hons) Football Coaching, Performance and Development (with Scottish FA)
+  award: BSc (Hons)
+  course_name: Football Coaching, Performance and Development (with Scottish FA)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Football Coaching, Performance and Development (with Scottish FA) - Undergraduate, Full-time
+- course_id: msc-user-experience-design-postgraduate-full-time
+  course_title: MSc User Experience Design
+  award: MSc
+  course_name: User Experience Design
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc User Experience Design - Postgraduate, Full-time
+- course_id: bsc-hons-sports-coaching-undergraduate-part-time
+  course_title: BSc (Hons) Sports Coaching
+  award: BSc (Hons)
+  course_name: Sports Coaching
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Sports Coaching - Undergraduate, Part-time
+- course_id: mba-mba-hospitality-and-tourism-management-postgraduate-online-learning
+  course_title: MBA MBA (Hospitality & Tourism Management)
+  award: MBA MBA
+  course_name: (Hospitality & Tourism Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Hospitality & Tourism Management) - Postgraduate, Online learning
+- course_id: msc-real-estate-management-and-investment-postgraduate-full-time
+  course_title: MSc Real Estate Management & Investment
+  award: MSc
+  course_name: Real Estate Management & Investment
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Real Estate Management & Investment - Postgraduate, Full-time
+- course_id: msc-global-hospitality-management-extended-postgraduate-full-time
+  course_title: MSc Global Hospitality Management (extended)
+  award: MSc
+  course_name: Global Hospitality Management (extended)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Global Hospitality Management (extended) - Postgraduate, Full-time
+- course_id: mba-mba-health-management-postgraduate-online-learning
+  course_title: MBA MBA (Health Management)
+  award: MBA MBA
+  course_name: (Health Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Health Management) - Postgraduate, Online learning
+- course_id: ma-heritage-and-exhibition-design-postgraduate-full-time
+  course_title: MA Heritage and Exhibition Design
+  award: MA
+  course_name: Heritage and Exhibition Design
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Heritage and Exhibition Design - Postgraduate, Full-time
+- course_id: ba-hons-bsc-hons-psychology-undergraduate-full-time
+  course_title: BA (Hons) / BSc (Hons) Psychology
+  award: BA (Hons) / BSc (Hons)
+  course_name: Psychology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) / BSc (Hons) Psychology - Undergraduate, Full-time
+- course_id: msc-marketing-postgraduate-full-time
+  course_title: MSc Marketing
+  award: MSc
+  course_name: Marketing
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Marketing - Postgraduate, Full-time
+- course_id: msc-applied-criminology-and-forensic-psychology-postgraduate-full-time
+  course_title: MSc Applied Criminology & Forensic Psychology
+  award: MSc
+  course_name: Applied Criminology & Forensic Psychology
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Applied Criminology & Forensic Psychology - Postgraduate, Full-time
+- course_id: ba-hons-mass-communications-advertising-and-public-relations-undergraduate-full-time
+  course_title: BA (Hons) Mass Communications, Advertising and Public Relations
+  award: BA (Hons)
+  course_name: Mass Communications, Advertising and Public Relations
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Mass Communications, Advertising and Public Relations - Undergraduate, Full-time
+- course_id: ba-hons-accounting-undergraduate-part-time
+  course_title: BA (Hons) Accounting
+  award: BA (Hons)
+  course_name: Accounting
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BA (Hons) Accounting - Undergraduate, Part-time
+- course_id: pgde-professional-graduate-diploma-in-education-chemistry-postgraduate-full-time
+  course_title: PGDE Professional Graduate Diploma in Education (Chemistry)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Chemistry)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PGDE Professional Graduate Diploma in Education (Chemistry) - Postgraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-biology-postgraduate-part-time
+  course_title: PGDE Professional Graduate Diploma in Education (Biology)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Biology)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PGDE Professional Graduate Diploma in Education (Biology) - Postgraduate, Part-time
+- course_id: msc-global-logistics-and-supply-chain-analytics-postgraduate-full-time
+  course_title: MSc Global Logistics And Supply Chain Analytics
+  award: MSc
+  course_name: Global Logistics And Supply Chain Analytics
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Global Logistics And Supply Chain Analytics - Postgraduate, Full-time
+- course_id: ba-ba-hons-marketing-with-digital-media-undergraduate-full-time
+  course_title: BA/BA (Hons) Marketing With Digital Media
+  award: BA/BA (Hons)
+  course_name: Marketing With Digital Media
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA/BA (Hons) Marketing With Digital Media - Undergraduate, Full-time
+- course_id: msc-business-management-marketing-postgraduate-online-learning
+  course_title: MSc Business Management (Marketing)
+  award: MSc
+  course_name: Business Management (Marketing)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management (Marketing) - Postgraduate, Online learning
+- course_id: ma-film-postgraduate-full-time
+  course_title: MA Film
+  award: MA
+  course_name: Film
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Film - Postgraduate, Full-time
+- course_id: msc-medical-biotechnology-postgraduate-part-time
+  course_title: MSc Medical Biotechnology
+  award: MSc
+  course_name: Medical Biotechnology
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Medical Biotechnology - Postgraduate, Part-time
+- course_id: ba-hons-business-management-with-project-management-undergraduate-full-time
+  course_title: BA (Hons) Business Management with Project Management
+  award: BA (Hons)
+  course_name: Business Management with Project Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Business Management with Project Management - Undergraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-english-postgraduate-part-time
+  course_title: PGDE Professional Graduate Diploma in Education (English)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (English)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PGDE Professional Graduate Diploma in Education (English) - Postgraduate, Part-time
+- course_id: ma-writing-popular-fiction-postgraduate-full-time
+  course_title: MA Writing Popular Fiction
+  award: MA
+  course_name: Writing Popular Fiction
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Writing Popular Fiction - Postgraduate, Full-time
+- course_id: ba-hons-media-and-communication-undergraduate-full-time
+  course_title: BA (Hons) Media and Communication
+  award: BA (Hons)
+  course_name: Media and Communication
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Media and Communication - Undergraduate, Full-time
+- course_id: bsc-hons-data-science-undergraduate-full-time
+  course_title: BSc (Hons) Data Science
+  award: BSc (Hons)
+  course_name: Data Science
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Data Science - Undergraduate, Full-time
+- course_id: graduate-certificate-practice-learning-social-services-undergraduate-part-time
+  course_title: Graduate Certificate Practice Learning (Social Services)
+  award: Graduate Certificate
+  course_name: Practice Learning (Social Services)
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: Graduate Certificate Practice Learning (Social Services) - Undergraduate, Part-time
+- course_id: ba-hons-criminology-undergraduate-full-time
+  course_title: BA (Hons) Criminology
+  award: BA (Hons)
+  course_name: Criminology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Criminology - Undergraduate, Full-time
+- course_id: msc-applied-forensic-psychology-postgraduate-full-time
+  course_title: MSc Applied Forensic Psychology
+  award: MSc
+  course_name: Applied Forensic Psychology
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Applied Forensic Psychology - Postgraduate, Full-time
+- course_id: ba-hons-accounting-undergraduate-full-time
+  course_title: BA (Hons) Accounting
+  award: BA (Hons)
+  course_name: Accounting
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Accounting - Undergraduate, Full-time
+- course_id: beng-beng-hons-energy-and-environmental-engineering-undergraduate-full-time
+  course_title: BEng/BEng (Hons) Energy & Environmental Engineering
+  award: BEng/BEng (Hons)
+  course_name: Energy & Environmental Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng/BEng (Hons) Energy & Environmental Engineering - Undergraduate, Full-time
+- course_id: ba-hons-international-hospitality-management-undergraduate-full-time
+  course_title: BA (Hons) International Hospitality Management
+  award: BA (Hons)
+  course_name: International Hospitality Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Hospitality Management - Undergraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-mathematics-postgraduate-part-time
+  course_title: PGDE Professional Graduate Diploma in Education (Mathematics)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Mathematics)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PGDE Professional Graduate Diploma in Education (Mathematics) - Postgraduate, Part-time
+- course_id: msc-business-management-human-resource-management-postgraduate-online-learning
+  course_title: MSc Business Management (Human Resource Management)
+  award: MSc
+  course_name: Business Management (Human Resource Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management (Human Resource Management) - Postgraduate, Online learning
+- course_id: msc-real-estate-management-and-investment-postgraduate-part-time
+  course_title: MSc Real Estate Management & Investment
+  award: MSc
+  course_name: Real Estate Management & Investment
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Real Estate Management & Investment - Postgraduate, Part-time
+- course_id: ba-international-hospitality-management-undergraduate-full-time
+  course_title: BA International Hospitality Management
+  award: BA
+  course_name: International Hospitality Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA International Hospitality Management - Undergraduate, Full-time
+- course_id: mba-mba-business-leadership-and-practice-postgraduate-full-time
+  course_title: MBA MBA (Business Leadership and Practice)
+  award: MBA MBA
+  course_name: (Business Leadership and Practice)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MBA MBA (Business Leadership and Practice) - Postgraduate, Full-time
+- course_id: bsc-hons-sound-design-undergraduate-full-time
+  course_title: BSc (Hons) Sound Design
+  award: BSc (Hons)
+  course_name: Sound Design
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Sound Design - Undergraduate, Full-time
+- course_id: bn-bachelor-of-nursing-adult-undergraduate-full-time
+  course_title: BN Bachelor Of Nursing (Adult)
+  award: BN
+  course_name: Bachelor Of Nursing (Adult)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BN Bachelor Of Nursing (Adult) - Undergraduate, Full-time
+- course_id: bsc-hons-biomedical-science-undergraduate-full-time
+  course_title: BSc (Hons) Biomedical Science
+  award: BSc (Hons)
+  course_name: Biomedical Science
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Biomedical Science - Undergraduate, Full-time
+- course_id: bsc-hons-biological-sciences-undergraduate-part-time
+  course_title: BSc (Hons) Biological Sciences
+  award: BSc (Hons)
+  course_name: Biological Sciences
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Biological Sciences - Undergraduate, Part-time
+- course_id: msc-international-tourism-destination-management-postgraduate-full-time
+  course_title: MSc International Tourism Destination Management
+  award: MSc
+  course_name: International Tourism Destination Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Tourism Destination Management - Postgraduate, Full-time
+- course_id: bdes-hons-product-design-undergraduate-full-time
+  course_title: BDes (Hons) Product Design
+  award: BDes (Hons)
+  course_name: Product Design
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BDes (Hons) Product Design - Undergraduate, Full-time
+- course_id: msc-wildlife-biology-and-conservation-postgraduate-full-time
+  course_title: MSc Wildlife Biology & Conservation
+  award: MSc
+  course_name: Wildlife Biology & Conservation
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Wildlife Biology & Conservation - Postgraduate, Full-time
+- course_id: msc-human-resource-management-postgraduate-part-time
+  course_title: MSc Human Resource Management
+  award: MSc
+  course_name: Human Resource Management
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Human Resource Management - Postgraduate, Part-time
+- course_id: msc-pharmaceutical-and-analytical-science-postgraduate-full-time
+  course_title: MSc Pharmaceutical & Analytical Science
+  award: MSc
+  course_name: Pharmaceutical & Analytical Science
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Pharmaceutical & Analytical Science - Postgraduate, Full-time
+- course_id: ba-hons-international-festival-and-event-management-and-marketing-undergraduate-full-time
+  course_title: BA (Hons) International Festival & Event Management and Marketing
+  award: BA (Hons)
+  course_name: International Festival & Event Management and Marketing
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Festival & Event Management and Marketing - Undergraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-english-postgraduate-full-time
+  course_title: PGDE Professional Graduate Diploma in Education (English)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (English)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PGDE Professional Graduate Diploma in Education (English) - Postgraduate, Full-time
+- course_id: bsc-hons-applied-microbiology-undergraduate-full-time
+  course_title: BSc (Hons) Applied Microbiology
+  award: BSc (Hons)
+  course_name: Applied Microbiology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Applied Microbiology - Undergraduate, Full-time
+- course_id: ba-hons-financial-services-undergraduate-full-time
+  course_title: BA (Hons) Financial Services
+  award: BA (Hons)
+  course_name: Financial Services
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Financial Services - Undergraduate, Full-time
+- course_id: bsc-hons-user-experience-ux-design-undergraduate-full-time
+  course_title: BSc (Hons) User Experience (UX) Design
+  award: BSc (Hons)
+  course_name: User Experience (UX) Design
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) User Experience (UX) Design - Undergraduate, Full-time
+- course_id: bsc-hons-real-estate-surveying-undergraduate-full-time
+  course_title: BSc (Hons) Real Estate Surveying
+  award: BSc (Hons)
+  course_name: Real Estate Surveying
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Real Estate Surveying - Undergraduate, Full-time
+- course_id: msc-automation-and-control-postgraduate-full-time
+  course_title: MSc Automation & Control
+  award: MSc
+  course_name: Automation & Control
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Automation & Control - Postgraduate, Full-time
+- course_id: ba-human-resource-management-with-organisational-psychology-undergraduate-part-time
+  course_title: BA Human Resource Management with Organisational Psychology
+  award: BA
+  course_name: Human Resource Management with Organisational Psychology
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BA Human Resource Management with Organisational Psychology - Undergraduate, Part-time
+- course_id: msc-cyber-security-postgraduate-part-time-distance-learning
+  course_title: MSc Cyber Security
+  award: MSc
+  course_name: Cyber Security
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MSc Cyber Security - Postgraduate, Part Time Distance learning
+- course_id: beng-hons-electronic-engineering-undergraduate-full-time
+  course_title: BEng (Hons) Electronic Engineering
+  award: BEng (Hons)
+  course_name: Electronic Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng (Hons) Electronic Engineering - Undergraduate, Full-time
+- course_id: certificate-of-credit-english-as-a-foreign-language-efl-1-year-undergraduate-full-time
+  course_title: Certificate of credit English as a Foreign Language (EFL) 1 Year
+  award: Certificate of credit
+  course_name: English as a Foreign Language (EFL) 1 Year
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: Certificate of credit English as a Foreign Language (EFL) 1 Year - Undergraduate, Full-time
+- course_id: msc-construction-project-management-postgraduate-online-learning
+  course_title: MSc Construction Project Management
+  award: MSc
+  course_name: Construction Project Management
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Construction Project Management - Postgraduate, Online learning
+- course_id: bsc-hons-digital-media-and-interaction-design-undergraduate-full-time
+  course_title: BSc (Hons) Digital Media & Interaction Design
+  award: BSc (Hons)
+  course_name: Digital Media & Interaction Design
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Digital Media & Interaction Design - Undergraduate, Full-time
+- course_id: msc-international-tourism-destination-management-postgraduate-part-time
+  course_title: MSc International Tourism Destination Management
+  award: MSc
+  course_name: International Tourism Destination Management
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc International Tourism Destination Management - Postgraduate, Part-time
+- course_id: beng-beng-hons-mechanical-engineering-undergraduate-full-time
+  course_title: BEng/BEng (Hons) Mechanical Engineering
+  award: BEng/BEng (Hons)
+  course_name: Mechanical Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng/BEng (Hons) Mechanical Engineering - Undergraduate, Full-time
+- course_id: bn-nursing-mental-health-undergraduate-full-time
+  course_title: BN Nursing (Mental Health)
+  award: BN
+  course_name: Nursing (Mental Health)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BN Nursing (Mental Health) - Undergraduate, Full-time
+- course_id: ba-marketing-management-undergraduate-online-learning
+  course_title: BA Marketing Management
+  award: BA
+  course_name: Marketing Management
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Marketing Management - Undergraduate, Online learning
+- course_id: msc-intercultural-business-communication-postgraduate-full-time
+  course_title: MSc Intercultural Business Communication
+  award: MSc
+  course_name: Intercultural Business Communication
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Intercultural Business Communication - Postgraduate, Full-time
+- course_id: mfa-directing-postgraduate-full-time
+  course_title: MFA Directing
+  award: MFA
+  course_name: Directing
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MFA Directing - Postgraduate, Full-time
+- course_id: mm-midwifery-long-postgraduate-full-time
+  course_title: MM Midwifery (Long)
+  award: MM
+  course_name: Midwifery (Long)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MM Midwifery (Long) - Postgraduate, Full-time
+- course_id: pgdip-career-guidance-and-development-postgraduate-part-time-distance-learning
+  course_title: PgDip Career Guidance and Development
+  award: PgDip
+  course_name: Career Guidance and Development
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: PgDip Career Guidance and Development - Postgraduate, Part Time Distance learning
+- course_id: mba-mba-marketing-postgraduate-online-learning
+  course_title: MBA MBA (Marketing)
+  award: MBA MBA
+  course_name: (Marketing)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Marketing) - Postgraduate, Online learning
+- course_id: msc-international-marketing-with-tourism-postgraduate-full-time
+  course_title: MSc International Marketing with Tourism
+  award: MSc
+  course_name: International Marketing with Tourism
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Marketing with Tourism - Postgraduate, Full-time
+- course_id: bsc-bsc-hons-computer-science-undergraduate-full-time
+  course_title: BSc/BSc (Hons) Computer Science
+  award: BSc/BSc (Hons)
+  course_name: Computer Science
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc/BSc (Hons) Computer Science - Undergraduate, Full-time
+- course_id: bsc-hons-quantity-surveying-undergraduate-full-time
+  course_title: BSc (Hons) Quantity Surveying
+  award: BSc (Hons)
+  course_name: Quantity Surveying
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Quantity Surveying - Undergraduate, Full-time
+- course_id: bsc-hons-real-estate-surveying-undergraduate-part-time
+  course_title: BSc (Hons) Real Estate Surveying
+  award: BSc (Hons)
+  course_name: Real Estate Surveying
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Real Estate Surveying - Undergraduate, Part-time
+- course_id: ba-business-management-west-lothian-college-undergraduate-part-time
+  course_title: BA Business Management (West Lothian College)
+  award: BA
+  course_name: Business Management (West Lothian College)
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BA Business Management (West Lothian College) - Undergraduate, Part-time
+- course_id: mba-mba-logistics-and-supply-chain-management-postgraduate-online-learning
+  course_title: MBA MBA (Logistics and Supply Chain Management)
+  award: MBA MBA
+  course_name: (Logistics and Supply Chain Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Logistics and Supply Chain Management) - Postgraduate, Online learning
+- course_id: msc-business-management-logistics-and-supply-chains-postgraduate-online-learning
+  course_title: MSc Business Management (Logistics & Supply Chains)
+  award: MSc
+  course_name: Business Management (Logistics & Supply Chains)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management (Logistics & Supply Chains) - Postgraduate, Online learning
+- course_id: bdes-hons-graphic-design-undergraduate-full-time
+  course_title: BDes (Hons) Graphic Design
+  award: BDes (Hons)
+  course_name: Graphic Design
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BDes (Hons) Graphic Design - Undergraduate, Full-time
+- course_id: msc-healthcare-management-postgraduate-full-time
+  course_title: MSc Healthcare Management
+  award: MSc
+  course_name: Healthcare Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Healthcare Management - Postgraduate, Full-time
+- course_id: mba-mba-banking-postgraduate-online-learning
+  course_title: MBA MBA (Banking)
+  award: MBA MBA
+  course_name: (Banking)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Banking) - Postgraduate, Online learning
+- course_id: ba-hons-psychology-with-sociology-undergraduate-full-time
+  course_title: BA (Hons) Psychology With Sociology
+  award: BA (Hons)
+  course_name: Psychology With Sociology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Psychology With Sociology - Undergraduate, Full-time
+- course_id: msc-accounting-postgraduate-full-time
+  course_title: MSc Accounting
+  award: MSc
+  course_name: Accounting
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Accounting - Postgraduate, Full-time
+- course_id: bsc-bsc-hons-architectural-technology-undergraduate-part-time
+  course_title: BSc/BSc (Hons) Architectural Technology
+  award: BSc/BSc (Hons)
+  course_name: Architectural Technology
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc/BSc (Hons) Architectural Technology - Undergraduate, Part-time
+- course_id: msc-drug-design-and-biomedical-science-postgraduate-part-time
+  course_title: MSc Drug Design & Biomedical Science
+  award: MSc
+  course_name: Drug Design & Biomedical Science
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Drug Design & Biomedical Science - Postgraduate, Part-time
+- course_id: ba-hons-business-management-with-entrepreneurship-undergraduate-full-time
+  course_title: BA (Hons) Business Management With Entrepreneurship
+  award: BA (Hons)
+  course_name: Business Management With Entrepreneurship
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Business Management With Entrepreneurship - Undergraduate, Full-time
+- course_id: ba-ba-hons-marketing-management-undergraduate-full-time
+  course_title: BA/BA (Hons) Marketing Management
+  award: BA/BA (Hons)
+  course_name: Marketing Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA/BA (Hons) Marketing Management - Undergraduate, Full-time
+- course_id: mba-mba-human-resource-management-postgraduate-online-learning
+  course_title: MBA MBA (Human Resource Management)
+  award: MBA MBA
+  course_name: (Human Resource Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Human Resource Management) - Postgraduate, Online learning
+- course_id: bsc-hons-biological-sciences-undergraduate-full-time
+  course_title: BSc (Hons) Biological Sciences
+  award: BSc (Hons)
+  course_name: Biological Sciences
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Biological Sciences - Undergraduate, Full-time
+- course_id: ba-hons-music-undergraduate-full-time
+  course_title: BA (Hons) Music
+  award: BA (Hons)
+  course_name: Music
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Music - Undergraduate, Full-time
+- course_id: ba-business-management-with-hospitality-undergraduate-online-learning
+  course_title: BA Business Management with Hospitality
+  award: BA
+  course_name: Business Management with Hospitality
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business Management with Hospitality - Undergraduate, Online learning
+- course_id: bsc-hons-animal-and-conservation-biology-undergraduate-full-time
+  course_title: BSc (Hons) Animal & Conservation Biology
+  award: BSc (Hons)
+  course_name: Animal & Conservation Biology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Animal & Conservation Biology - Undergraduate, Full-time
+- course_id: beng-hons-electrical-engineering-undergraduate-full-time
+  course_title: BEng (Hons) Electrical Engineering
+  award: BEng (Hons)
+  course_name: Electrical Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng (Hons) Electrical Engineering - Undergraduate, Full-time
+- course_id: msc-international-human-resource-management-postgraduate-full-time
+  course_title: MSc International Human Resource Management
+  award: MSc
+  course_name: International Human Resource Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Human Resource Management - Postgraduate, Full-time
+- course_id: ba-hons-international-tourism-management-undergraduate-full-time
+  course_title: BA (Hons) International Tourism Management
+  award: BA (Hons)
+  course_name: International Tourism Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Tourism Management - Undergraduate, Full-time
+- course_id: meng-electrical-and-electronic-engineering-undergraduate-full-time
+  course_title: MEng Electrical & Electronic Engineering
+  award: MEng
+  course_name: Electrical & Electronic Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Electrical & Electronic Engineering - Undergraduate, Full-time
+- course_id: mba-mba-information-systems-strategy-and-governance-postgraduate-online-learning
+  course_title: MBA MBA (Information Systems Strategy & Governance)
+  award: MBA MBA
+  course_name: (Information Systems Strategy & Governance)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Information Systems Strategy & Governance) - Postgraduate, Online learning
+- course_id: msc-drug-design-and-biomedical-science-postgraduate-full-time
+  course_title: MSc Drug Design & Biomedical Science
+  award: MSc
+  course_name: Drug Design & Biomedical Science
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Drug Design & Biomedical Science - Postgraduate, Full-time
+- course_id: msc-human-resource-management-postgraduate-online-learning
+  course_title: MSc Human Resource Management
+  award: MSc
+  course_name: Human Resource Management
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Human Resource Management - Postgraduate, Online learning
+- course_id: mba-mba-finance-postgraduate-online-learning
+  course_title: MBA MBA (Finance)
+  award: MBA MBA
+  course_name: (Finance)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Finance) - Postgraduate, Online learning
+- course_id: ba-ba-hons-accounting-and-finance-undergraduate-full-time
+  course_title: BA/BA (Hons) Accounting & Finance
+  award: BA/BA (Hons)
+  course_name: Accounting & Finance
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA/BA (Hons) Accounting & Finance - Undergraduate, Full-time
+- course_id: mfa-heritage-and-exhibition-design-postgraduate-full-time
+  course_title: MFA Heritage and Exhibition Design
+  award: MFA
+  course_name: Heritage and Exhibition Design
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MFA Heritage and Exhibition Design - Postgraduate, Full-time
+- course_id: bsc-bsc-hons-architectural-technology-undergraduate-full-time
+  course_title: BSc/BSc (Hons) Architectural Technology
+  award: BSc/BSc (Hons)
+  course_name: Architectural Technology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc/BSc (Hons) Architectural Technology - Undergraduate, Full-time
+- course_id: ma-screenwriting-global-online-postgraduate-online-learning
+  course_title: MA Screenwriting (Global Online)
+  award: MA
+  course_name: Screenwriting (Global Online)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MA Screenwriting (Global Online) - Postgraduate, Online learning
+- course_id: msc-renewable-energy-postgraduate-full-time
+  course_title: MSc Renewable Energy
+  award: MSc
+  course_name: Renewable Energy
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Renewable Energy - Postgraduate, Full-time
+- course_id: bsc-hons-sport-and-exercise-science-undergraduate-part-time
+  course_title: BSc (Hons) Sport & Exercise Science
+  award: BSc (Hons)
+  course_name: Sport & Exercise Science
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Sport & Exercise Science - Undergraduate, Part-time
+- course_id: bsc-hons-sport-and-exercise-science-undergraduate-full-time
+  course_title: BSc (Hons) Sport & Exercise Science
+  award: BSc (Hons)
+  course_name: Sport & Exercise Science
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Sport & Exercise Science - Undergraduate, Full-time
+- course_id: ba-hons-international-festival-and-event-management-undergraduate-full-time
+  course_title: BA (Hons) International Festival & Event Management
+  award: BA (Hons)
+  course_name: International Festival & Event Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Festival & Event Management - Undergraduate, Full-time
+- course_id: bsc-nursing-studies-undergraduate-online-learning
+  course_title: BSc Nursing Studies
+  award: BSc
+  course_name: Nursing Studies
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BSc Nursing Studies - Undergraduate, Online learning
+- course_id: bn-nursing-child-health-undergraduate-full-time
+  course_title: BN Nursing (Child Health)
+  award: BN
+  course_name: Nursing (Child Health)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BN Nursing (Child Health) - Undergraduate, Full-time
+- course_id: meng-energy-and-environmental-engineering-undergraduate-full-time
+  course_title: MEng Energy and Environmental Engineering
+  award: MEng
+  course_name: Energy and Environmental Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Energy and Environmental Engineering - Undergraduate, Full-time
+- course_id: msc-applied-sport-science-postgraduate-full-time
+  course_title: MSc Applied Sport Science
+  award: MSc
+  course_name: Applied Sport Science
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Applied Sport Science - Postgraduate, Full-time
+- course_id: bsc-hons-physical-activity-and-health-undergraduate-full-time
+  course_title: BSc (Hons) Physical Activity & Health
+  award: BSc (Hons)
+  course_name: Physical Activity & Health
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Physical Activity & Health - Undergraduate, Full-time
+- course_id: msc-physiotherapy-pre-registration-postgraduate-full-time
+  course_title: MSc Physiotherapy (Pre-registration)
+  award: MSc
+  course_name: Physiotherapy (Pre-registration)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Physiotherapy (Pre-registration) - Postgraduate, Full-time
+- course_id: ma-creative-writing-postgraduate-part-time
+  course_title: MA Creative Writing
+  award: MA
+  course_name: Creative Writing
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Creative Writing - Postgraduate, Part-time
+- course_id: msc-business-management-postgraduate-online-learning
+  course_title: MSc Business Management
+  award: MSc
+  course_name: Business Management
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management - Postgraduate, Online learning
+- course_id: llb-llb-graduate-entry-undergraduate-full-time
+  course_title: LLB LLB Graduate Entry
+  award: LLB
+  course_name: LLB Graduate Entry
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: LLB LLB Graduate Entry - Undergraduate, Full-time
+- course_id: ba-hons-television-undergraduate-full-time
+  course_title: BA (Hons) Television
+  award: BA (Hons)
+  course_name: Television
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Television - Undergraduate, Full-time
+- course_id: beng-hons-network-engineering-and-cyber-security-undergraduate-full-time
+  course_title: BEng (Hons) Network Engineering and Cyber Security
+  award: BEng (Hons)
+  course_name: Network Engineering and Cyber Security
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng (Hons) Network Engineering and Cyber Security - Undergraduate, Full-time
+- course_id: bsc-hons-biomedical-science-undergraduate-part-time
+  course_title: BSc (Hons) Biomedical Science
+  award: BSc (Hons)
+  course_name: Biomedical Science
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Biomedical Science - Undergraduate, Part-time
+- course_id: ba-hons-international-business-management-undergraduate-full-time
+  course_title: BA (Hons) International Business Management
+  award: BA (Hons)
+  course_name: International Business Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Business Management - Undergraduate, Full-time
+- course_id: msc-marketing-with-festival-and-event-management-postgraduate-full-time
+  course_title: MSc Marketing with Festival & Event Management
+  award: MSc
+  course_name: Marketing with Festival & Event Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Marketing with Festival & Event Management - Postgraduate, Full-time
+- course_id: ma-screenwriting-postgraduate-part-time
+  course_title: MA Screenwriting
+  award: MA
+  course_name: Screenwriting
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Screenwriting - Postgraduate, Part-time
+- course_id: mph-public-health-postgraduate-full-time
+  course_title: MPH Public Health
+  award: MPH
+  course_name: Public Health
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MPH Public Health - Postgraduate, Full-time
+- course_id: msc-business-management-tourism-and-hospitality-postgraduate-online-learning
+  course_title: MSc Business Management (Tourism & Hospitality)
+  award: MSc
+  course_name: Business Management (Tourism & Hospitality)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management (Tourism & Hospitality) - Postgraduate, Online learning
+- course_id: mba-mba-business-analytics-postgraduate-online-learning
+  course_title: MBA MBA (Business Analytics)
+  award: MBA MBA
+  course_name: (Business Analytics)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Business Analytics) - Postgraduate, Online learning
+- course_id: msc-construction-project-management-postgraduate-part-time
+  course_title: MSc Construction Project Management
+  award: MSc
+  course_name: Construction Project Management
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Construction Project Management - Postgraduate, Part-time
+- course_id: msc-business-management-postgraduate-full-time
+  course_title: MSc Business Management
+  award: MSc
+  course_name: Business Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Business Management - Postgraduate, Full-time
+- course_id: msc-clinical-exercise-physiology-postgraduate-full-time
+  course_title: MSc Clinical Exercise Physiology
+  award: MSc
+  course_name: Clinical Exercise Physiology
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Clinical Exercise Physiology - Postgraduate, Full-time
+- course_id: msc-computing-with-professional-placement-postgraduate-full-time
+  course_title: MSc Computing with Professional Placement
+  award: MSc
+  course_name: Computing with Professional Placement
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Computing with Professional Placement - Postgraduate, Full-time
+- course_id: msc-computing-postgraduate-full-time
+  course_title: MSc Computing
+  award: MSc
+  course_name: Computing
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Computing - Postgraduate, Full-time
+- course_id: msc-business-information-technology-postgraduate-part-time
+  course_title: MSc Business Information Technology
+  award: MSc
+  course_name: Business Information Technology
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Business Information Technology - Postgraduate, Part-time
+- course_id: bsc-bsc-hons-games-development-undergraduate-full-time
+  course_title: BSc/BSc (Hons) Games Development
+  award: BSc/BSc (Hons)
+  course_name: Games Development
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc/BSc (Hons) Games Development - Undergraduate, Full-time
+- course_id: msc-information-science-postgraduate-full-time
+  course_title: MSc Information Science
+  award: MSc
+  course_name: Information Science
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Information Science - Postgraduate, Full-time
+- course_id: beng-hons-cybersecurity-and-forensics-undergraduate-full-time
+  course_title: BEng (Hons) Cybersecurity & Forensics
+  award: BEng (Hons)
+  course_name: Cybersecurity & Forensics
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng (Hons) Cybersecurity & Forensics - Undergraduate, Full-time
+- course_id: beng-beng-hons-software-engineering-undergraduate-full-time
+  course_title: BEng/BEng (Hons) Software Engineering
+  award: BEng/BEng (Hons)
+  course_name: Software Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng/BEng (Hons) Software Engineering - Undergraduate, Full-time
+- course_id: meng-software-engineering-undergraduate-full-time
+  course_title: MEng Software Engineering
+  award: MEng
+  course_name: Software Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Software Engineering - Undergraduate, Full-time
+- course_id: msc-computing-postgraduate-part-time
+  course_title: MSc Computing
+  award: MSc
+  course_name: Computing
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Computing - Postgraduate, Part-time
+- course_id: msc-transport-planning-and-engineering-postgraduate-full-time
+  course_title: MSc Transport Planning & Engineering
+  award: MSc
+  course_name: Transport Planning & Engineering
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Transport Planning & Engineering - Postgraduate, Full-time
+- course_id: mfa-design-for-interactive-art-and-experiences-postgraduate-full-time
+  course_title: MFA Design for Interactive Art & Experiences
+  award: MFA
+  course_name: Design for Interactive Art & Experiences
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MFA Design for Interactive Art & Experiences - Postgraduate, Full-time
+- course_id: msc-advanced-structural-engineering-postgraduate-full-time
+  course_title: MSc Advanced Structural Engineering
+  award: MSc
+  course_name: Advanced Structural Engineering
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Advanced Structural Engineering - Postgraduate, Full-time
+- course_id: mfa-acting-for-stage-and-screen-postgraduate-full-time
+  course_title: MFA Acting for Stage and Screen
+  award: MFA
+  course_name: Acting for Stage and Screen
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MFA Acting for Stage and Screen - Postgraduate, Full-time
+- course_id: msc-biomedical-science-postgraduate-full-time
+  course_title: MSc Biomedical Science
+  award: MSc
+  course_name: Biomedical Science
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Biomedical Science - Postgraduate, Full-time
+- course_id: msc-creative-advertising-postgraduate-full-time
+  course_title: MSc Creative Advertising
+  award: MSc
+  course_name: Creative Advertising
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Creative Advertising - Postgraduate, Full-time
+- course_id: ma-design-for-interactive-experience-postgraduate-part-time
+  course_title: MA Design for Interactive Experience
+  award: MA
+  course_name: Design for Interactive Experience
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Design for Interactive Experience - Postgraduate, Part-time
+- course_id: ba-hons-stage-and-screen-acting-undergraduate-full-time
+  course_title: BA (Hons) Stage and Screen Acting
+  award: BA (Hons)
+  course_name: Stage and Screen Acting
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Stage and Screen Acting - Undergraduate, Full-time
+- course_id: mfa-design-for-interactive-art-and-experiences-postgraduate-part-time
+  course_title: MFA Design for Interactive Art & Experiences
+  award: MFA
+  course_name: Design for Interactive Art & Experiences
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MFA Design for Interactive Art & Experiences - Postgraduate, Part-time
+- course_id: msc-clinical-exercise-physiology-postgraduate-part-time
+  course_title: MSc Clinical Exercise Physiology
+  award: MSc
+  course_name: Clinical Exercise Physiology
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Clinical Exercise Physiology - Postgraduate, Part-time
+- course_id: msc-transport-planning-and-engineering-postgraduate-part-time
+  course_title: MSc Transport Planning & Engineering
+  award: MSc
+  course_name: Transport Planning & Engineering
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Transport Planning & Engineering - Postgraduate, Part-time
+- course_id: msc-advanced-materials-engineering-postgraduate-part-time
+  course_title: MSc Advanced Materials Engineering
+  award: MSc
+  course_name: Advanced Materials Engineering
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Advanced Materials Engineering - Postgraduate, Part-time
+- course_id: msc-advanced-materials-engineering-postgraduate-full-time
+  course_title: MSc Advanced Materials Engineering
+  award: MSc
+  course_name: Advanced Materials Engineering
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Advanced Materials Engineering - Postgraduate, Full-time
+- course_id: meng-civil-engineering-undergraduate-full-time
+  course_title: MEng Civil Engineering
+  award: MEng
+  course_name: Civil Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Civil Engineering - Undergraduate, Full-time
+- course_id: msc-transport-planning-and-engineering-postgraduate-online-learning
+  course_title: MSc Transport Planning & Engineering
+  award: MSc
+  course_name: Transport Planning & Engineering
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Transport Planning & Engineering - Postgraduate, Online learning
+- course_id: ma-writing-genre-fiction-postgraduate-online-learning
+  course_title: MA Writing Genre Fiction
+  award: MA
+  course_name: Writing Genre Fiction
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MA Writing Genre Fiction - Postgraduate, Online learning
+- course_id: msc-advanced-structural-engineering-postgraduate-part-time
+  course_title: MSc Advanced Structural Engineering
+  award: MSc
+  course_name: Advanced Structural Engineering
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Advanced Structural Engineering - Postgraduate, Part-time
+- course_id: ma-journalism-postgraduate-part-time
+  course_title: MA Journalism
+  award: MA
+  course_name: Journalism
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Journalism - Postgraduate, Part-time
+- course_id: ma-journalism-postgraduate-full-time
+  course_title: MA Journalism
+  award: MA
+  course_name: Journalism
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Journalism - Postgraduate, Full-time
+- course_id: ba-hons-film-undergraduate-full-time
+  course_title: BA (Hons) Film
+  award: BA (Hons)
+  course_name: Film
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Film - Undergraduate, Full-time
+- course_id: ba-hons-acting-and-english-undergraduate-full-time
+  course_title: BA (Hons) Acting & English
+  award: BA (Hons)
+  course_name: Acting & English
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Acting & English - Undergraduate, Full-time
+- course_id: msc-advanced-clinical-practice-named-speciality-postgraduate-part-time
+  course_title: MSc Advanced Clinical Practice (named speciality)
+  award: MSc
+  course_name: Advanced Clinical Practice (named speciality)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Advanced Clinical Practice (named speciality) - Postgraduate, Part-time
+- course_id: msc-business-information-technology-postgraduate-full-time
+  course_title: MSc Business Information Technology
+  award: MSc
+  course_name: Business Information Technology
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Business Information Technology - Postgraduate, Full-time
+- course_id: bsc-hons-bsc-hons-construction-and-the-built-environment-graduate-apprenticeship-undergraduate-block-release-full-time
+  course_title: BSc (Hons) BSc (Hons) Construction & the Built Environment (Graduate Apprenticeship)
+  award: BSc (Hons) BSc (Hons)
+  course_name: Construction & the Built Environment (Graduate Apprenticeship)
+  academic_level: Undergraduate
+  study_mode: Block Release, Full-time
+  source_text: BSc (Hons) BSc (Hons) Construction & the Built Environment (Graduate Apprenticeship) - Undergraduate, Block Release, Full-time
+- course_id: ba-ba-business-management-graduate-apprenticeship-undergraduate-day-release-full-time
+  course_title: BA BA Business Management (Graduate Apprenticeship)
+  award: BA BA
+  course_name: Business Management (Graduate Apprenticeship)
+  academic_level: Undergraduate
+  study_mode: Day Release, Full-time
+  source_text: BA BA Business Management (Graduate Apprenticeship) - Undergraduate, Day Release, Full-time
+- course_id: beng-hons-beng-hons-cybersecurity-graduate-apprenticeship-undergraduate-day-release-full-time
+  course_title: BEng (Hons) BEng (Hons) Cybersecurity (Graduate Apprenticeship)
+  award: BEng (Hons) BEng (Hons)
+  course_name: Cybersecurity (Graduate Apprenticeship)
+  academic_level: Undergraduate
+  study_mode: Day Release, Full-time
+  source_text: BEng (Hons) BEng (Hons) Cybersecurity (Graduate Apprenticeship) - Undergraduate, Day Release, Full-time
+- course_id: msc-cyber-security-graduate-apprenticeship-postgraduate-full-time
+  course_title: MSc Cyber Security (Graduate Apprenticeship)
+  award: MSc
+  course_name: Cyber Security (Graduate Apprenticeship)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Cyber Security (Graduate Apprenticeship) - Postgraduate, Full-time
+- course_id: beng-hons-design-and-manufacture-graduate-apprenticeship-ft-undergraduate-part-time
+  course_title: BEng (Hons) Design and Manufacture (Graduate Apprenticeship) FT
+  award: BEng (Hons)
+  course_name: Design and Manufacture (Graduate Apprenticeship) FT
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BEng (Hons) Design and Manufacture (Graduate Apprenticeship) FT - Undergraduate, Part-time
+- course_id: macc-accounting-undergraduate-part-time
+  course_title: MAcc Accounting
+  award: MAcc
+  course_name: Accounting
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: MAcc Accounting - Undergraduate, Part-time
+- course_id: beng-beng-hons-beng-hons-civil-engineering-graduate-apprenticeship-undergraduate-day-release-full-time
+  course_title: BEng/BEng (Hons) BEng (Hons) Civil Engineering (Graduate Apprenticeship)
+  award: BEng/BEng (Hons)
+  course_name: BEng (Hons) Civil Engineering (Graduate Apprenticeship)
+  academic_level: Undergraduate
+  study_mode: Day Release, Full-time
+  source_text: BEng/BEng (Hons) BEng (Hons) Civil Engineering (Graduate Apprenticeship) - Undergraduate, Day Release, Full-time
+- course_id: bsc-hons-data-science-graduate-apprenticeship-undergraduate-part-time
+  course_title: BSc (Hons) Data Science (Graduate Apprenticeship)
+  award: BSc (Hons)
+  course_name: Data Science (Graduate Apprenticeship)
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Data Science (Graduate Apprenticeship) - Undergraduate, Part-time
+- course_id: bsc-hons-bsc-hons-software-development-graduate-apprenticeship-undergraduate-day-release-full-time
+  course_title: BSc (Hons) BSc (Hons) Software Development (Graduate Apprenticeship)
+  award: BSc (Hons) BSc (Hons)
+  course_name: Software Development (Graduate Apprenticeship)
+  academic_level: Undergraduate
+  study_mode: Day Release, Full-time
+  source_text: BSc (Hons) BSc (Hons) Software Development (Graduate Apprenticeship) - Undergraduate, Day Release, Full-time
+- course_id: msc-environmental-sustainability-postgraduate-full-time
+  course_title: MSc Environmental Sustainability
+  award: MSc
+  course_name: Environmental Sustainability
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Environmental Sustainability - Postgraduate, Full-time
+- course_id: ba-hons-english-and-film-undergraduate-full-time
+  course_title: BA (Hons) English & Film
+  award: BA (Hons)
+  course_name: English & Film
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) English & Film - Undergraduate, Full-time
+- course_id: ba-ba-hons-business-management-undergraduate-full-time
+  course_title: BA/BA (Hons) Business Management
+  award: BA/BA (Hons)
+  course_name: Business Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA/BA (Hons) Business Management - Undergraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-mathematics-postgraduate-full-time
+  course_title: PGDE Professional Graduate Diploma in Education (Mathematics)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Mathematics)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PGDE Professional Graduate Diploma in Education (Mathematics) - Postgraduate, Full-time
+- course_id: msc-business-management-finance-postgraduate-online-learning
+  course_title: MSc Business Management (Finance)
+  award: MSc
+  course_name: Business Management (Finance)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Business Management (Finance) - Postgraduate, Online learning
+- course_id: bsc-hons-physical-activity-and-health-undergraduate-part-time
+  course_title: BSc (Hons) Physical Activity & Health
+  award: BSc (Hons)
+  course_name: Physical Activity & Health
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Physical Activity & Health - Undergraduate, Part-time
+- course_id: mba-mba-leadership-and-innovation-postgraduate-online-learning
+  course_title: MBA MBA (Leadership & Innovation)
+  award: MBA MBA
+  course_name: (Leadership & Innovation)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Leadership & Innovation) - Postgraduate, Online learning
+- course_id: pgdip-midwifery-short-postgraduate-full-time
+  course_title: PgDip Midwifery (Short)
+  award: PgDip
+  course_name: Midwifery (Short)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PgDip Midwifery (Short) - Postgraduate, Full-time
+- course_id: msc-nursing-pre-registration-adult-health-postgraduate-full-time
+  course_title: MSc Nursing (Pre-registration) Adult Health
+  award: MSc
+  course_name: Nursing (Pre-registration) Adult Health
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Nursing (Pre-registration) Adult Health - Postgraduate, Full-time
+- course_id: ba-business-management-with-sustainability-undergraduate-online-learning
+  course_title: BA Business Management with Sustainability
+  award: BA
+  course_name: Business Management with Sustainability
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business Management with Sustainability - Undergraduate, Online learning
+- course_id: ba-hons-business-management-with-human-resource-management-undergraduate-full-time
+  course_title: BA (Hons) Business Management With Human Resource Management
+  award: BA (Hons)
+  course_name: Business Management With Human Resource Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Business Management With Human Resource Management - Undergraduate, Full-time
+- course_id: msc-international-marketing-postgraduate-full-time
+  course_title: MSc International Marketing
+  award: MSc
+  course_name: International Marketing
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Marketing - Postgraduate, Full-time
+- course_id: msc-clinical-healthcare-technology-postgraduate-online-learning
+  course_title: MSc Clinical Healthcare Technology
+  award: MSc
+  course_name: Clinical Healthcare Technology
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MSc Clinical Healthcare Technology - Postgraduate, Online learning
+- course_id: pgde-professional-graduate-diploma-in-education-chemistry-postgraduate-part-time
+  course_title: PGDE Professional Graduate Diploma in Education (Chemistry)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Chemistry)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PGDE Professional Graduate Diploma in Education (Chemistry) - Postgraduate, Part-time
+- course_id: beng-beng-hons-electrical-and-electronic-engineering-undergraduate-full-time
+  course_title: BEng/BEng (Hons) Electrical & Electronic Engineering
+  award: BEng/BEng (Hons)
+  course_name: Electrical & Electronic Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng/BEng (Hons) Electrical & Electronic Engineering - Undergraduate, Full-time
+- course_id: msc-international-finance-postgraduate-full-time
+  course_title: MSc International Finance
+  award: MSc
+  course_name: International Finance
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Finance - Postgraduate, Full-time
+- course_id: bsc-hons-policing-and-criminology-undergraduate-full-time
+  course_title: BSc (Hons) Policing & Criminology
+  award: BSc (Hons)
+  course_name: Policing & Criminology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Policing & Criminology - Undergraduate, Full-time
+- course_id: bsc-nursing-studies-undergraduate-full-time
+  course_title: BSc Nursing Studies
+  award: BSc
+  course_name: Nursing Studies
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc Nursing Studies - Undergraduate, Full-time
+- course_id: bsc-hons-computer-science-artificial-intelligence-undergraduate-full-time
+  course_title: BSc (Hons) Computer Science (Artificial Intelligence)
+  award: BSc (Hons)
+  course_name: Computer Science (Artificial Intelligence)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Computer Science (Artificial Intelligence) - Undergraduate, Full-time
+- course_id: msc-human-resource-management-postgraduate-full-time
+  course_title: MSc Human Resource Management
+  award: MSc
+  course_name: Human Resource Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Human Resource Management - Postgraduate, Full-time
+- course_id: meng-electrical-and-electronic-engineering-undergraduate-full-time
+  course_title: MEng Electrical & Electronic Engineering
+  award: MEng
+  course_name: Electrical & Electronic Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Electrical & Electronic Engineering - Undergraduate, Full-time
+- course_id: ma-creative-documentary-filmmaking-postgraduate-distance-learning-full-time
+  course_title: MA Creative Documentary Filmmaking
+  award: MA
+  course_name: Creative Documentary Filmmaking
+  academic_level: Postgraduate
+  study_mode: Distance learning Full-time
+  source_text: MA Creative Documentary Filmmaking - Postgraduate, Distance learning Full-time
+- course_id: msc-real-estate-management-and-investment-postgraduate-part-time-distance-learning
+  course_title: MSc Real Estate Management & Investment
+  award: MSc
+  course_name: Real Estate Management & Investment
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MSc Real Estate Management & Investment - Postgraduate, Part Time Distance learning
+- course_id: msc-wildlife-biology-and-conservation-postgraduate-part-time-distance-learning
+  course_title: MSc Wildlife Biology & Conservation
+  award: MSc
+  course_name: Wildlife Biology & Conservation
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MSc Wildlife Biology & Conservation - Postgraduate, Part Time Distance learning
+- course_id: ba-business-management-undergraduate-online-learning
+  course_title: BA Business Management
+  award: BA
+  course_name: Business Management
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business Management - Undergraduate, Online learning
+- course_id: ma-creative-documentary-filmmaking-postgraduate-part-time-distance-learning
+  course_title: MA Creative Documentary Filmmaking
+  award: MA
+  course_name: Creative Documentary Filmmaking
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MA Creative Documentary Filmmaking - Postgraduate, Part Time Distance learning
+- course_id: mba-mba-postgraduate-online-learning
+  course_title: MBA MBA
+  award: MBA MBA
+  course_name: MBA MBA
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA - Postgraduate, Online learning
+- course_id: mba-mba-project-management-postgraduate-online-learning
+  course_title: MBA MBA (Project Management)
+  award: MBA MBA
+  course_name: (Project Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Project Management) - Postgraduate, Online learning
+- course_id: ba-hons-international-tourism-and-airline-management-undergraduate-full-time
+  course_title: BA (Hons) International Tourism & Airline Management
+  award: BA (Hons)
+  course_name: International Tourism & Airline Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Tourism & Airline Management - Undergraduate, Full-time
+- course_id: msc-pgdip-pgcert-blended-and-online-education-postgraduate-part-time-distance-learning
+  course_title: MSc / PgDip / PgCert Blended and Online Education
+  award: MSc / PgDip / PgCert
+  course_name: Blended and Online Education
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MSc / PgDip / PgCert Blended and Online Education - Postgraduate, Part Time Distance learning
+- course_id: pgde-professional-graduate-diploma-in-education-biology-postgraduate-full-time
+  course_title: PGDE Professional Graduate Diploma in Education (Biology)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Biology)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PGDE Professional Graduate Diploma in Education (Biology) - Postgraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-physics-postgraduate-full-time
+  course_title: PGDE Professional Graduate Diploma in Education (Physics)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Physics)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PGDE Professional Graduate Diploma in Education (Physics) - Postgraduate, Full-time
+- course_id: pgde-professional-graduate-diploma-in-education-physics-postgraduate-part-time
+  course_title: PGDE Professional Graduate Diploma in Education (Physics)
+  award: PGDE
+  course_name: Professional Graduate Diploma in Education (Physics)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PGDE Professional Graduate Diploma in Education (Physics) - Postgraduate, Part-time
+- course_id: pgdip-career-guidance-and-development-postgraduate-full-time
+  course_title: PgDip Career Guidance & Development
+  award: PgDip
+  course_name: Career Guidance & Development
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: PgDip Career Guidance & Development - Postgraduate, Full-time
+- course_id: msc-design-research-postgraduate-full-time
+  course_title: MSc Design Research
+  award: MSc
+  course_name: Design Research
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Design Research - Postgraduate, Full-time
+- course_id: ma-lighting-design-postgraduate-full-time
+  course_title: MA Lighting Design
+  award: MA
+  course_name: Lighting Design
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Lighting Design - Postgraduate, Full-time
+- course_id: ma-service-design-postgraduate-full-time
+  course_title: MA Service Design
+  award: MA
+  course_name: Service Design
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Service Design - Postgraduate, Full-time
+- course_id: ma-lighting-design-postgraduate-part-time
+  course_title: MA Lighting Design
+  award: MA
+  course_name: Lighting Design
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Lighting Design - Postgraduate, Part-time
+- course_id: msc-artificial-intelligence-and-data-science-postgraduate-full-time
+  course_title: MSc Artificial Intelligence and Data Science
+  award: MSc
+  course_name: Artificial Intelligence and Data Science
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Artificial Intelligence and Data Science - Postgraduate, Full-time
+- course_id: msc-sound-design-postgraduate-full-time
+  course_title: MSc Sound Design
+  award: MSc
+  course_name: Sound Design
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Sound Design - Postgraduate, Full-time
+- course_id: ma-motion-graphics-postgraduate-full-time
+  course_title: MA Motion Graphics
+  award: MA
+  course_name: Motion Graphics
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Motion Graphics - Postgraduate, Full-time
+- course_id: msc-sound-design-postgraduate-part-time
+  course_title: MSc Sound Design
+  award: MSc
+  course_name: Sound Design
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Sound Design - Postgraduate, Part-time
+- course_id: msc-sound-design-postgraduate-part-time-distance-learning
+  course_title: MSc Sound Design
+  award: MSc
+  course_name: Sound Design
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MSc Sound Design - Postgraduate, Part Time Distance learning
+- course_id: msc-sound-design-postgraduate-distance-learning-full-time
+  course_title: MSc Sound Design
+  award: MSc
+  course_name: Sound Design
+  academic_level: Postgraduate
+  study_mode: Distance learning Full-time
+  source_text: MSc Sound Design - Postgraduate, Distance learning Full-time
+- course_id: ma-creative-studies-postgraduate-full-time
+  course_title: MA Creative Studies
+  award: MA
+  course_name: Creative Studies
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Creative Studies - Postgraduate, Full-time
+- course_id: ma-creative-studies-postgraduate-part-time
+  course_title: MA Creative Studies
+  award: MA
+  course_name: Creative Studies
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Creative Studies - Postgraduate, Part-time
+- course_id: ma-motion-graphics-postgraduate-part-time
+  course_title: MA Motion Graphics
+  award: MA
+  course_name: Motion Graphics
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MA Motion Graphics - Postgraduate, Part-time
+- course_id: msc-social-research-and-policy-postgraduate-full-time
+  course_title: MSc Social Research and Policy
+  award: MSc
+  course_name: Social Research and Policy
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Social Research and Policy - Postgraduate, Full-time
+- course_id: msc-robotics-and-autonomous-systems-engineering-postgraduate-full-time
+  course_title: MSc Robotics and Autonomous Systems Engineering
+  award: MSc
+  course_name: Robotics and Autonomous Systems Engineering
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Robotics and Autonomous Systems Engineering - Postgraduate, Full-time
+- course_id: msc-marketing-with-sustainability-postgraduate-full-time
+  course_title: MSc Marketing with Sustainability
+  award: MSc
+  course_name: Marketing with Sustainability
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Marketing with Sustainability - Postgraduate, Full-time
+- course_id: meng-mechanical-engineering-undergraduate-full-time
+  course_title: MEng Mechanical Engineering
+  award: MEng
+  course_name: Mechanical Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Mechanical Engineering - Undergraduate, Full-time
+- course_id: msc-human-resource-management-with-ai-postgraduate-full-time
+  course_title: MSc Human Resource Management with AI
+  award: MSc
+  course_name: Human Resource Management with AI
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Human Resource Management with AI - Postgraduate, Full-time
+- course_id: meng-civil-and-transportation-engineering-undergraduate-full-time
+  course_title: MEng Civil & Transportation Engineering
+  award: MEng
+  course_name: Civil & Transportation Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: MEng Civil & Transportation Engineering - Undergraduate, Full-time
+- course_id: msc-international-festival-and-event-management-postgraduate-part-time
+  course_title: MSc International Festival & Event Management
+  award: MSc
+  course_name: International Festival & Event Management
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc International Festival & Event Management - Postgraduate, Part-time
+- course_id: mba-mba-events-management-postgraduate-online-learning
+  course_title: MBA MBA (Events Management)
+  award: MBA MBA
+  course_name: (Events Management)
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MBA MBA (Events Management) - Postgraduate, Online learning
+- course_id: ba-hons-intercultural-business-communication-and-marketing-management-undergraduate-full-time
+  course_title: BA (Hons) Intercultural Business Communication and Marketing Management
+  award: BA (Hons)
+  course_name: Intercultural Business Communication and Marketing Management
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Intercultural Business Communication and Marketing Management - Undergraduate, Full-time
+- course_id: msc-international-business-management-postgraduate-full-time
+  course_title: MSc International Business Management
+  award: MSc
+  course_name: International Business Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Business Management - Postgraduate, Full-time
+- course_id: bn-nursing-learning-disabilities-undergraduate-full-time
+  course_title: BN Nursing (Learning Disabilities)
+  award: BN
+  course_name: Nursing (Learning Disabilities)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BN Nursing (Learning Disabilities) - Undergraduate, Full-time
+- course_id: msc-crime-and-justice-in-practice-postgraduate-full-time
+  course_title: MSc Crime and Justice in Practice
+  award: MSc
+  course_name: Crime and Justice in Practice
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Crime and Justice in Practice - Postgraduate, Full-time
+- course_id: msc-medical-biotechnology-postgraduate-full-time
+  course_title: MSc Medical Biotechnology
+  award: MSc
+  course_name: Medical Biotechnology
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Medical Biotechnology - Postgraduate, Full-time
+- course_id: msc-publishing-postgraduate-full-time
+  course_title: MSc Publishing
+  award: MSc
+  course_name: Publishing
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Publishing - Postgraduate, Full-time
+- course_id: bsc-hons-marine-and-freshwater-biology-undergraduate-full-time
+  course_title: BSc (Hons) Marine & Freshwater Biology
+  award: BSc (Hons)
+  course_name: Marine & Freshwater Biology
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Marine & Freshwater Biology - Undergraduate, Full-time
+- course_id: msc-occupational-therapy-pre-registration-postgraduate-full-time
+  course_title: MSc Occupational Therapy (Pre-registration)
+  award: MSc
+  course_name: Occupational Therapy (Pre-registration)
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Occupational Therapy (Pre-registration) - Postgraduate, Full-time
+- course_id: pgcert-teaching-and-supporting-learning-in-higher-education-postgraduate-part-time
+  course_title: PgCert Teaching and Supporting Learning in Higher Education
+  award: PgCert
+  course_name: Teaching and Supporting Learning in Higher Education
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PgCert Teaching and Supporting Learning in Higher Education - Postgraduate, Part-time
+- course_id: ba-business-and-enterprise-undergraduate-online-learning
+  course_title: BA Business & Enterprise
+  award: BA
+  course_name: Business & Enterprise
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business & Enterprise - Undergraduate, Online learning
+- course_id: msc-applied-sport-science-postgraduate-part-time
+  course_title: MSc Applied Sport Science
+  award: MSc
+  course_name: Applied Sport Science
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Applied Sport Science - Postgraduate, Part-time
+- course_id: ma-design-for-interactive-experience-postgraduate-full-time
+  course_title: MA Design for Interactive Experience
+  award: MA
+  course_name: Design for Interactive Experience
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Design for Interactive Experience - Postgraduate, Full-time
+- course_id: mfa-heritage-and-exhibition-design-postgraduate-part-time
+  course_title: MFA Heritage and Exhibition Design
+  award: MFA
+  course_name: Heritage and Exhibition Design
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MFA Heritage and Exhibition Design - Postgraduate, Part-time
+- course_id: ma-creative-writing-postgraduate-full-time
+  course_title: MA Creative Writing
+  award: MA
+  course_name: Creative Writing
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MA Creative Writing - Postgraduate, Full-time
+- course_id: msc-applied-social-research-postgraduate-full-time
+  course_title: MSc Applied Social Research
+  award: MSc
+  course_name: Applied Social Research
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Applied Social Research - Postgraduate, Full-time
+- course_id: ba-business-management-with-marketing-undergraduate-online-learning
+  course_title: BA Business Management With Marketing
+  award: BA
+  course_name: Business Management With Marketing
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business Management With Marketing - Undergraduate, Online learning
+- course_id: beng-beng-hons-civil-engineering-undergraduate-full-time
+  course_title: BEng/BEng (Hons) Civil Engineering
+  award: BEng/BEng (Hons)
+  course_name: Civil Engineering
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng/BEng (Hons) Civil Engineering - Undergraduate, Full-time
+- course_id: llb-llb-hons-law-undergraduate-full-time
+  course_title: LLB / LLB (Hons) Law
+  award: LLB
+  course_name: / LLB (Hons) Law
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: LLB / LLB (Hons) Law - Undergraduate, Full-time
+- course_id: bsc-hons-building-surveying-undergraduate-full-time
+  course_title: BSc (Hons) Building Surveying
+  award: BSc (Hons)
+  course_name: Building Surveying
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Building Surveying - Undergraduate, Full-time
+- course_id: beng-beng-hons-computing-undergraduate-full-time
+  course_title: BEng/BEng (Hons) Computing
+  award: BEng/BEng (Hons)
+  course_name: Computing
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BEng/BEng (Hons) Computing - Undergraduate, Full-time
+- course_id: bsc-hons-web-design-and-development-undergraduate-full-time
+  course_title: BSc (Hons) Web Design & Development
+  award: BSc (Hons)
+  course_name: Web Design & Development
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Web Design & Development - Undergraduate, Full-time
+- course_id: msc-msc-human-resource-management-top-up-postgraduate-part-time
+  course_title: MSc MSc Human Resource Management (Top-up)
+  award: MSc MSc
+  course_name: Human Resource Management (Top-up)
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc MSc Human Resource Management (Top-up) - Postgraduate, Part-time
+- course_id: msc-architectural-technology-and-sustainable-building-performance-postgraduate-part-time
+  course_title: MSc Architectural Technology & Sustainable Building Performance
+  award: MSc
+  course_name: Architectural Technology & Sustainable Building Performance
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Architectural Technology & Sustainable Building Performance - Postgraduate, Part-time
+- course_id: bsc-hons-sports-coaching-undergraduate-full-time
+  course_title: BSc (Hons) Sports Coaching
+  award: BSc (Hons)
+  course_name: Sports Coaching
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Sports Coaching - Undergraduate, Full-time
+- course_id: msc-user-experience-design-postgraduate-part-time
+  course_title: MSc User Experience Design
+  award: MSc
+  course_name: User Experience Design
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc User Experience Design - Postgraduate, Part-time
+- course_id: bsc-hons-building-surveying-undergraduate-part-time
+  course_title: BSc (Hons) Building Surveying
+  award: BSc (Hons)
+  course_name: Building Surveying
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Building Surveying - Undergraduate, Part-time
+- course_id: msc-environmental-sustainability-postgraduate-part-time
+  course_title: MSc Environmental Sustainability
+  award: MSc
+  course_name: Environmental Sustainability
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Environmental Sustainability - Postgraduate, Part-time
+- course_id: msc-advanced-mechanical-engineering-postgraduate-full-time
+  course_title: MSc Advanced Mechanical Engineering
+  award: MSc
+  course_name: Advanced Mechanical Engineering
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Advanced Mechanical Engineering - Postgraduate, Full-time
+- course_id: bsc-hons-marine-and-freshwater-biology-undergraduate-part-time
+  course_title: BSc (Hons) Marine & Freshwater Biology
+  award: BSc (Hons)
+  course_name: Marine & Freshwater Biology
+  academic_level: Undergraduate
+  study_mode: Part-time
+  source_text: BSc (Hons) Marine & Freshwater Biology - Undergraduate, Part-time
+- course_id: ba-business-management-west-lothian-college-undergraduate-full-time
+  course_title: BA Business Management (West Lothian College)
+  award: BA
+  course_name: Business Management (West Lothian College)
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA Business Management (West Lothian College) - Undergraduate, Full-time
+- course_id: mph-public-health-postgraduate-online-learning
+  course_title: MPH Public Health
+  award: MPH
+  course_name: Public Health
+  academic_level: Postgraduate
+  study_mode: Online learning
+  source_text: MPH Public Health - Postgraduate, Online learning
+- course_id: ba-hons-photography-undergraduate-full-time
+  course_title: BA (Hons) Photography
+  award: BA (Hons)
+  course_name: Photography
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Photography - Undergraduate, Full-time
+- course_id: bsc-bsc-computing-undergraduate-online-learning
+  course_title: BSc BSc Computing
+  award: BSc BSc
+  course_name: Computing
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BSc BSc Computing - Undergraduate, Online learning
+- course_id: msc-applied-criminology-and-forensic-psychology-postgraduate-part-time
+  course_title: MSc Applied Criminology & Forensic Psychology
+  award: MSc
+  course_name: Applied Criminology & Forensic Psychology
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Applied Criminology & Forensic Psychology - Postgraduate, Part-time
+- course_id: msc-performance-enhancement-in-sports-officiating-postgraduate-part-time-distance-learning
+  course_title: MSc Performance Enhancement in Sports Officiating
+  award: MSc
+  course_name: Performance Enhancement in Sports Officiating
+  academic_level: Postgraduate
+  study_mode: Part Time Distance learning
+  source_text: MSc Performance Enhancement in Sports Officiating - Postgraduate, Part Time Distance learning
+- course_id: ba-business-management-with-hrm-undergraduate-online-learning
+  course_title: BA Business Management With HRM
+  award: BA
+  course_name: Business Management With HRM
+  academic_level: Undergraduate
+  study_mode: Online learning
+  source_text: BA Business Management With HRM - Undergraduate, Online learning
+- course_id: ba-hons-accounting-with-corporate-finance-undergraduate-full-time
+  course_title: BA (Hons) Accounting With Corporate Finance
+  award: BA (Hons)
+  course_name: Accounting With Corporate Finance
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Accounting With Corporate Finance - Undergraduate, Full-time
+- course_id: ba-hons-international-hospitality-management-and-festival-and-event-undergraduate-full-time
+  course_title: BA (Hons) International Hospitality Management & Festival & Event
+  award: BA (Hons)
+  course_name: International Hospitality Management & Festival & Event
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) International Hospitality Management & Festival & Event - Undergraduate, Full-time
+- course_id: pgcert-epilepsy-studies-postgraduate-part-time
+  course_title: PgCert Epilepsy Studies
+  award: PgCert
+  course_name: Epilepsy Studies
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: PgCert Epilepsy Studies - Postgraduate, Part-time
+- course_id: ba-hons-business-management-with-marketing-undergraduate-full-time
+  course_title: BA (Hons) Business Management With Marketing
+  award: BA (Hons)
+  course_name: Business Management With Marketing
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Business Management With Marketing - Undergraduate, Full-time
+- course_id: bsc-hons-animation-for-games-undergraduate-full-time
+  course_title: BSc (Hons) Animation for Games
+  award: BSc (Hons)
+  course_name: Animation for Games
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BSc (Hons) Animation for Games - Undergraduate, Full-time
+- course_id: ba-hons-social-sciences-undergraduate-full-time
+  course_title: BA (Hons) Social Sciences
+  award: BA (Hons)
+  course_name: Social Sciences
+  academic_level: Undergraduate
+  study_mode: Full-time
+  source_text: BA (Hons) Social Sciences - Undergraduate, Full-time
+- course_id: msc-international-festival-and-event-management-postgraduate-full-time
+  course_title: MSc International Festival & Event Management
+  award: MSc
+  course_name: International Festival & Event Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc International Festival & Event Management - Postgraduate, Full-time
+- course_id: msc-biomedical-science-postgraduate-part-time
+  course_title: MSc Biomedical Science
+  award: MSc
+  course_name: Biomedical Science
+  academic_level: Postgraduate
+  study_mode: Part-time
+  source_text: MSc Biomedical Science - Postgraduate, Part-time
+- course_id: msc-construction-project-management-postgraduate-full-time
+  course_title: MSc Construction Project Management
+  award: MSc
+  course_name: Construction Project Management
+  academic_level: Postgraduate
+  study_mode: Full-time
+  source_text: MSc Construction Project Management - Postgraduate, Full-time

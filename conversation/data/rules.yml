@@ -1,0 +1,38 @@
+version: "3.1"
+
+rules:
+
+- rule: Greet user
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: Say goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Handle all user messages with PDT
+  steps:
+  - intent: user_message
+  - action: action_pdt_response
+
+- rule: Default catch all
+  steps:
+  - intent: nlu_fallback
+  - action: action_pdt_response
+
+- rule: Switch to student mode
+  steps:
+  - intent: switch_to_student
+  - action: action_switch_to_student
+
+- rule: Switch to PDT mode
+  steps:
+  - intent: switch_to_pdt
+  - action: action_switch_to_pdt
+
+- rule: User detected by vision system
+  steps:
+  - intent: user_detected
+  - action: action_user_detected

@@ -1,0 +1,295 @@
+pdt_guidance:
+  how_to_find_your_pdt:
+  - Check Moodle.
+  - Check eStudent Records.
+  - If not available, contact your Programme Leader or School Office.
+  student_expectations:
+    meeting_frequency_guidance: Meet regularly, ideally once per academic trimester.
+    response_time_target: PDTs should aim to respond within three working days.
+    confidentiality: Your PDT should keep discussions confidential unless you give permission to share information or there are concerns about risk to you or others.
+    meeting_notes: PDT meeting notes are kept confidential and can be viewed on the e:Student portal by you and your current PDT.
+  your_pdt_will:
+  - Introduce themselves in your first few weeks and meet with you throughout your time at university.
+  - Help you reflect on personal and professional development.
+  - Review academic progress and offer constructive feedback on academic skill development.
+  - Listen to non-academic concerns.
+  - Signpost you to academic, welfare, and wellbeing support within the university.
+  - Write an academic reference if required.
+  contact_your_pdt_if:
+  - You are considering changing course or leaving the university.
+  - You are worried about grades or exams.
+  - You think a specific learning difficulty may be affecting your studies.
+  - Personal problems are affecting your studies.
+  - You need a reference for further study or a job.
+  your_pdt_cannot:
+  - Answer every question; they may need to direct you to specialist support.
+  - Provide round-the-clock support.
+  - Change grades or appeal exam results for you.
+  staff_guidance_summary:
+    allocation: Students on most taught programmes should be allocated a PDT.
+    proactive_contact: Appointments should be arranged at least twice per year, with the first meeting as soon as possible after the start of teaching.
+    minimum_individual_contact: At least one meeting per year should be one-to-one.
+    academic_advising:
+    - Offer appropriate guidance in relation to studies.
+    - Review academic progress.
+    - Signpost to Academic Skills and Student Wellbeing and Inclusion where required.
+    - Support personal and professional development and signpost to Student Futures.
+    record_keeping: Maintain notes of PDT contact.
+counselling_and_mental_wellbeing:
+  summary: The Counselling and Mental Wellbeing team supports students through their university experience and helps with mental health challenges.
+  service_type: Non-crisis service.
+  opening_hours: 9am-5pm Monday to Friday, with some early evening appointments available.
+  contact:
+    email: counselling@napier.ac.uk
+    phone: 0131 455 2459
+  self_referral:
+    required_for_registration: true
+    link: https://corenet4.coreims.co.uk/napier/selfreferral/selfreferralstart.aspx
+  urgent_support:
+    out_of_hours_route: Use Emergency & out of hours wellbeing support.
+    concern_about_student:
+    - Email counselling@napier.ac.uk
+    - Email safeguarding@napier.ac.uk
+  services_and_resources:
+  - Support and advice for stress, anxiety, and other mental health issues linked to personal circumstances or academic pressures.
+  - Resources and coping strategies including workshops, videos, breathing exercises, and grounding techniques.
+  - Online support with Togetherall.
+  - Guidance for experiencing suicidal thoughts or feelings.
+togetherall:
+  summary: Free, anonymous, online support for Edinburgh Napier students who are struggling, stressed, low, unable to cope, or want help managing wellbeing.
+  availability: 24/7 online community with professional support from trained counsellors.
+  key_features:
+  - Anonymous use.
+  - Peer-to-peer community support.
+  - Structured self-help courses.
+  - Private journal and goal-setter.
+  - Self-assessments and support articles.
+  sign_up_steps:
+  - Go to togetherall.com and select 'join for free'.
+  - Choose 'I'm from a university or college'.
+  - Use your university email address.
+  - Create an anonymous name.
+  support_types:
+    community:
+    - Post a standalone 'brick' to get things off your chest.
+    - Join groups to talk things through with others.
+    courses:
+    - Depression
+    - Social anxiety
+    - Stress and worry
+    - Procrastination
+    - Sleep
+    - Assertiveness
+    - Grief and loss
+    - Quitting smoking
+    other_resources:
+    - Private journal
+    - Goal-setter
+    - Self-assessments
+    - Support articles
+    - External resources
+  help_if_sign_up_fails: Email counselling@napier.ac.uk.
+emergency_and_out_of_hours_support:
+  summary: Useful emergency and out-of-hours support contacts for crisis and non-emergency wellbeing support.
+  emergency_contacts:
+  - name: Breathing Space
+    service: Confidential helpline for anyone who feels overwhelmed and needs someone to listen.
+    opening_hours: Mon-Thu 6pm-2am; Fri-Mon 6pm-6am
+    contact:
+      telephone: 0800 83 85 87
+      email: info@breathingspacescotland.co.uk
+      website: www.breathingspace.scot
+  - name: Edinburgh Crisis Centre
+    service: 24 hour crisis helpline for those with mental health issues; provides booked appointments.
+    opening_hours: 24 hours a day
+    contact:
+      freephone: 0808 801 0414
+      text: 07974 429 075
+      email: crisis@edinburghcrisiscentre.org.uk
+      website: www.edinburghcrisiscentre.org.uk
+  - name: Edinburgh Rape Crisis Centre
+    service: Helpline for anyone affected by sexual violence.
+    opening_hours: 6pm-12pm, 7 days a week
+    contact:
+      telephone: 0808 801 302
+      email: support@ercc.scot
+      website: www.ercc.scot
+  - name: Hopeline 247
+    service: 24 hour confidential support and practical advice if you are experiencing thoughts of suicide or are concerned about someone else.
+    opening_hours: 24 hours a day
+    contact:
+      telephone: 0800 068 4141
+      website: papyrus-uk.org
+  - name: Mental Health Assessment Service (MHAS)
+    service: 24 hour NHS emergency mental health assessment service for people in crisis; includes walk-in service.
+    opening_hours: 24 hours a day
+    contact:
+      telephone: 0131 537 6000
+      address: Royal Edinburgh Hospital, Morningside Place, Edinburgh, EH10 5HF
+  - name: NHS 24
+    service: 24 hour helpline for anyone feeling ill when their GP/Doctor's surgery is closed.
+    opening_hours: 24 hours a day
+    contact:
+      telephone: '111'
+  - name: Nightline
+    service: Confidential telephone and instant messaging helpline run by students for students.
+    opening_hours: During term time, 8pm-8am
+    contact:
+      telephone: 0131 557 4444
+      website: www.ednightline.com
+  - name: Samaritans
+    service: Confidential 24 hour helpline by trained volunteers for anyone feeling overwhelmed.
+    opening_hours: 24 hours a day
+    contact:
+      telephone: 116 123
+      email: jo@samaritans.org
+      website: www.samaritans.org
+  - name: Saneline
+    service: Confidential helpline for emotional support or information for anyone with mental health issues.
+    opening_hours: 6pm-11pm, 7 days a week
+    contact:
+      telephone: 0300 304 7000
+      email: info@sane.org.uk
+      website: www.sane.org.uk
+  - name: Victim Support
+    service: Confidential helpline for anyone affected by crime.
+    opening_hours: Scottish Helpline Mon-Fri 8am-8pm; UK Helpline Mon-Fri 9am-9pm and Sat-Sun 9am-7pm
+    contact:
+      telephone: 0845 30 30 900
+      website: www.victimsupportsco.org.uk
+  other_non_emergency_contacts:
+  - name: SilverCloud
+    service: Online mental wellbeing courses designed by clinical experts and supported by the NHS and Scottish Government.
+    access_note: Use access code NHS24 on first visit.
+    website: https://wellbeing.silvercloudhealth.com/signup/
+  - name: Abused Men in Scotland
+    service: Support for men over 16 concerned about domestic abuse.
+    opening_hours: 9am-4pm Monday to Friday
+    contact:
+      telephone: 0808 800 0024
+      website: www.abusedmeninscotland.org
+  - name: Consultation & Advocacy Promotion Service
+    service: Advocacy, support, events, and training for people using mental health services.
+    contact:
+      telephone: 0131 273 5116
+      email: contact@capsadvocacy.org
+      website: www.capsadvocacy.org
+  - name: Edinburgh Alcohol and Drugs Partnership
+    service: Information on where and how to get support for drugs or alcohol problems.
+    contact:
+      email: eadp@edinburgh.gov.uk
+      website: www.edinburghadp.co.uk
+  - name: Edinburgh Self Harm Project
+    service: Confidential and non-judgemental support and advice for people who self-harm or are affected by self-harm.
+    contact:
+      telephone: 0131 229 6262
+      email: selfharm.edinburgh@penumbra.org.uk
+      website: www.penumbra.org.uk
+  - name: Edspace
+    service: Online mental health information and resource service detailing services in Edinburgh.
+    contact:
+      website: www.edspace.org.uk
+  - name: Health in Mind
+    service: Guidance and advice on mental health including counselling and other services.
+    contact:
+      telephone: 0131 225 8505
+      email: contactus@health-in-mind.org.uk
+      website: www.health-in-mind.org.uk
+  - name: LGBT Centre for Health and Wellbeing
+    service: Support for lesbian, gay, bisexual, and transgender individuals and their families.
+    opening_hours: Helpline Tuesday and Wednesday 12 noon-9pm
+    contact:
+      helpline: 0300 123 2523
+      email: admin@lgbthealth.org.uk
+      website: www.lgbthealth.org.uk
+  - name: LGBT Youth Scotland
+    service: Support and advice for people aged 17-25.
+    contact:
+      telephone: 0131 555 3940
+      email: info@lgbtyouth.org.uk
+      website: www.lgbtyouth.org.uk
+  - name: Mental Health Information Station
+    service: Walk-in support and guidance from mental health professionals.
+    opening_hours: Drop in Thursdays 10.30am-3pm
+    contact:
+      telephone: 0131 537 8688
+      website: https://services.nhslothian.scot/mentalhealthinformationstation
+  - name: Shakti Women's Aid
+    service: Support for black/minority ethnic women, children, and young people experiencing or fleeing domestic abuse.
+    opening_hours: Domestic Abuse Helpline 24-hour; Office hours Mon 9.30am-4pm, Tue 1pm-4pm, Wed-Fri 9.30am-4pm
+    contact:
+      domestic_abuse_helpline: 0800 027 1234
+      telephone: 0131 475 2399
+      email: info@shaktiedinburgh.co.uk
+      website: www.shaktiedinburgh.co.uk
+  - name: Saheliya
+    service: Black and minority ethnic women's mental health organisation offering counselling and other services.
+    opening_hours: Mon-Fri 9am-4.30pm
+    contact:
+      telephone: 0131 556 9302
+      website: www.saheliya.co.uk
+exam_results_and_decision_codes:
+  results_publication_dates_2026:
+    trimester_1: 9 February 2026
+    trimester_2: 30 June 2026
+    reassessment: 31 August 2026
+    trimester_3: 9 October 2026
+  general_notes:
+  - Results can also be viewed on eStudent records together with programme and module results.
+  - 'Taught Master''s programmes have two decision-code tables: up to 2024/25 used a grading scale, while 2025/26 onwards uses percentage marking.'
+  - Marks seen before official publication are indicative only until ratified by the Programme Assessment Board.
+  undergraduate_module_codes:
+    M: Merit pass; overall module mark at least 65%; module complete.
+    P: Pass; module complete.
+    AP: Assessment pass for a component; check overall module result.
+    AF: Assessment fail for a component; reassessment required.
+    CP: Compensatory pass; credit awarded and no reassessment required.
+    RP: Repeat module with attendance next academic year.
+    EA: Exceptional attempt; one more attempt allowed.
+    EX: Extenuating circumstances; assessment may be taken at next opportunity; first-attempt passes are not capped, second-attempt passes are capped at 40%.
+    ER: Emergency regulation; next opportunity available; first-attempt passes are not capped, second-attempt passes are capped at 40%.
+    F: Reassessment / fail; module not successfully completed.
+    QF: Qualified fail; one component failed.
+    NA: No result available; at least one component not completed.
+  taught_masters_module_codes_2025_26_onwards:
+    D: Distinction; overall mark at least 70%; module complete.
+    M: Merit; overall mark at least 60%; module complete.
+    P: Pass; module complete.
+    AP: Assessment pass for a component; check overall module result.
+    AF: Assessment fail for a component; reassessment required.
+    CP: Compensatory pass; credit awarded and no reassessment required.
+    RP: Repeat module with attendance.
+    EA: Exceptional attempt; one more attempt allowed.
+    EX: Extenuating circumstances; first-attempt passes not capped, second-attempt passes capped at 50%.
+    ER: Emergency regulations; first-attempt passes not capped, second-attempt passes capped at 50%.
+    F: Fail.
+    QF: Qualified fail; one component failed.
+    NA: No result available; one or both assessment components not completed.
+  taught_masters_module_codes_up_to_2024_25:
+    D1-D5: Distinction pass; module complete.
+    P1-P5: Pass; module complete.
+    AP: Assessment pass for a component; check overall module result.
+    AF: Assessment fail for a component; reassessment required.
+    CP: Compensatory pass; credit awarded and no reassessment required.
+    RP: Repeat module with attendance.
+    EA: Exceptional attempt; one more attempt allowed.
+    EX: Extenuating circumstances; first-attempt passes not capped at P1, second-attempt passes capped at P1.
+    ER: Emergency regulations; first-attempt passes not capped at P1, second-attempt passes capped at P1.
+    F1-F5: Fail; if initial attempt, maximum reassessment result is P1.
+    F6: Non submission; no further reassessment if this was the second attempt.
+    QF: Qualified fail; one component failed.
+    NA: No result available; one or both components not completed.
+  if_results_look_incorrect:
+    guidance: Contact your Programme Leader or PDT and your School Office as soon as possible.
+    school_offices:
+      School of Applied Science: sas.admin@napier.ac.uk
+      School of Arts & Creative Industries: saci@napier.ac.uk
+      School of Computing, Engineering and the Built Environment: scebeschooloffice@napier.ac.uk
+      School of Health & Social Care: shsc.admin@napier.ac.uk
+      The Business School: passtbs@napier.ac.uk
+      Doctoral College: doctoralcollegeoffice@napier.ac.uk
+  wellbeing_after_results:
+  - Use university counselling and single-session therapy services.
+  - Use Togetherall for free 24/7 anonymous online support.
+  - Use ENSA Advice for independent support and advice.
+  - Use emergency and out-of-hours wellbeing support when the university is closed.

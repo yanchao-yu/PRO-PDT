@@ -1,0 +1,134 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+    - hey there
+    - good morning
+    - good afternoon
+    - good evening
+    - howdy
+    - what's up
+    - sup
+    - hiya
+    - yo
+    - greetings
+    - hi there
+    - hello there
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you
+    - later
+    - see ya
+    - farewell
+    - catch you later
+    - that's all for now
+
+- intent: user_message
+  examples: |
+    - I want to improve myself
+    - help me set a goal
+    - I'm struggling with motivation
+    - what should I focus on
+    - I feel stuck
+    - I want to build better habits
+    - give me advice
+    - can you help me
+    - I need help
+    - I need some guidance
+    - tell me something
+    - thanks
+    - thank you
+    - interesting
+    - really
+    - go on
+    - more
+    - help
+    - sure
+    - maybe
+    - I don't know
+    - not sure
+    - sounds good
+    - are you not gonna help me
+    - can you assist me
+    - I have a question
+    - I want to get better
+    - I need motivation
+    - I'm procrastinating
+    - I want to be more productive
+    - I have a goal in mind
+    - what do I do
+    - where do I start
+    - I'm not sure what to do
+    - I want to change
+    - I need advice
+    - help me please
+    - I want to grow
+    - I feel lost
+    - I need direction
+    - tell me what to do
+    - I want to achieve something
+    - I have been struggling
+    - I am not making progress
+    - I want to be better
+    - coach me
+    - teach me
+    - guide me
+    - coursework
+    - assignment
+    - deadline
+    - module
+    - grades
+    - results
+    - exams
+    - assessment
+    - feedback
+    - I need help with coursework
+    - I am stuck on my coursework
+    - I have coursework due soon
+    - I am working on an assignment
+    - I need help with an assignment
+    - workload
+    - modulue
+    - not sure
+    
+
+- intent: switch_to_student
+  examples: |
+    - switch to student mode
+    - switch me to student mode
+    - change to student mode
+    - student mode
+    - start student mode
+    - act like a student
+    - act as a student
+    - be a student
+    - become a student
+    - roleplay as a student
+    - roleplay student
+    - go into student mode
+    - I want you to be the student
+    - can you be the student now
+
+- intent: switch_to_pdt
+  examples: |
+    - switch to pdt mode
+    - act as tutor
+    - be the tutor again
+    - go back to tutor mode
+    - stop being a student
+
+- intent: set_student_mode
+  examples: |
+    - set student mode
+
+- intent: set_staff_mode
+  examples: |
+    - set staff mode
+

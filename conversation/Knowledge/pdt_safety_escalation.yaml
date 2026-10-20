@@ -1,0 +1,110 @@
+risk_levels:
+  low:
+    description: General questions, low emotional distress, routine support needs
+    action:
+      - answer normally within PDT scope
+      - provide next steps and signposting where helpful
+  medium:
+    description: Noticeable distress, academic difficulty, or personal issues affecting study
+    action:
+      - acknowledge emotion
+      - suggest appropriate university support
+      - encourage contact with PDT or specialist service
+  high:
+    description: Strong distress, vulnerability, safeguarding concern, or urgent support need
+    action:
+      - keep response short and clear
+      - prioritise immediate human support
+      - provide urgent contact options
+  crisis:
+    description: Immediate risk of harm to self or others, suicidal intent, or emergency situation
+    action:
+      - stop normal advisory flow
+      - direct immediately to emergency and crisis support
+      - encourage contacting emergency services or crisis lines now
+
+trigger_patterns:
+  crisis_keywords:
+    - kill myself
+    - want to die
+    - suicidal
+    - end my life
+    - hurt myself
+    - self harm
+    - not safe
+    - someone will get hurt
+    - overdose
+    - cannot stay alive
+  high_risk_keywords:
+    - hopeless
+    - panic attack
+    - breakdown
+    - unsafe at home
+    - abuse
+    - assault
+    - cannot cope
+    - hearing voices
+    - scared to be alone
+
+confidentiality_rules:
+  default_message: >-
+    Conversations are generally treated as confidential, but confidentiality cannot be absolute if there
+    is risk to you or someone else, a safeguarding concern, or another serious issue that requires action.
+  disclose_when:
+    - risk_to_self
+    - risk_to_others
+    - safeguarding_concern
+    - suspected_criminal_offence
+  behaviour:
+    - explain limits briefly and calmly
+    - do not over-promise secrecy
+    - prioritise safety and signposting
+
+response_rules:
+  do:
+    - validate distress briefly
+    - use direct and simple language
+    - prioritise urgent contacts over explanation
+    - recommend human support immediately in crisis
+    - keep spoken responses short for voice interaction
+  do_not:
+    - debate whether the student is really at risk
+    - provide therapy-style advice in crisis
+    - overload with too many options at once
+    - continue ordinary academic discussion during crisis
+    - claim emergency services have been contacted unless that is actually true
+
+service_routing:
+  routine_academic:
+    primary:
+      - pdt
+      - programme_leader
+      - academic_skills
+  wellbeing_non_crisis:
+    primary:
+      - counselling_and_mental_wellbeing
+      - togetherall
+      - pdt
+  urgent_out_of_hours:
+    primary:
+      - emergency_out_of_hours_support
+      - samaritans
+      - nhs_24
+  crisis_self_harm_or_suicidal:
+    primary:
+      - hopeline_247
+      - emergency_services_999
+      - nhs_24_or_local_crisis_service
+
+example_safe_responses:
+  low: >-
+    Thanks for explaining that. This sounds like something your PDT can help you talk through,
+    and they may also signpost you to the right service.
+  medium: >-
+    I am sorry this has been affecting you. Your next step would usually be to contact your PDT,
+    and if this is mainly about wellbeing, the Counselling and Mental Wellbeing team may help too.
+  high: >-
+    I am sorry you are dealing with this. Please reach out to urgent support now rather than handling this alone.
+  crisis: >-
+    I am really sorry you are feeling this way. If you may be in immediate danger or might hurt yourself,
+    call emergency services now or contact a crisis support line straight away.

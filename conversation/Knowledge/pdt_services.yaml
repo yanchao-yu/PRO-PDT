@@ -1,0 +1,147 @@
+internal_services:
+  - id: pdt
+    name: Personal Development Tutor
+    category: academic_and_pastoral_support
+    when_to_use:
+      - academic worries
+      - personal problems affecting study
+      - changing course
+      - references
+      - general support and reflection
+    notes:
+      - Students can usually find their PDT in Moodle or eStudent
+      - If missing, contact Programme Leader or School Office
+
+  - id: counselling_and_mental_wellbeing
+    name: Counselling and Mental Wellbeing
+    category: wellbeing_support
+    service_type: non_crisis
+    opening_hours: 9am to 5pm Monday to Friday, with some early evening appointments
+    contact:
+      email: counselling@napier.ac.uk
+      phone: "0131 455 2459"
+    self_referral:
+      required_for_registration: true
+      link: https://corenet4.coreims.co.uk/napier/selfreferral/selfreferralstart.aspx
+    when_to_use:
+      - stress
+      - anxiety
+      - low mood
+      - mental health challenges affecting study
+
+  - id: togetherall
+    name: Togetherall
+    category: online_wellbeing_support
+    service_type: anonymous_online_support
+    availability: 24/7
+    access:
+      website: https://togetherall.com
+      signup_summary:
+        - Select join for free
+        - Choose university or college
+        - Use university email
+        - Create an anonymous name
+    when_to_use:
+      - stress
+      - low mood
+      - social anxiety
+      - sleep issues
+      - procrastination
+
+  - id: academic_skills
+    name: Academic Skills
+    category: academic_support
+    when_to_use:
+      - study skills
+      - academic writing
+      - independent learning strategies
+      - support with academic progress
+
+  - id: student_futures
+    name: Student Futures
+    category: careers_and_personal_development
+    when_to_use:
+      - employability
+      - personal development
+      - career planning
+      - support alongside academic references
+
+  - id: programme_leader
+    name: Programme Leader
+    category: academic_admin
+    when_to_use:
+      - changing course
+      - programme-specific concerns
+      - escalation of academic issues
+
+  - id: school_office
+    name: School Office
+    category: academic_admin
+    when_to_use:
+      - PDT not listed
+      - results look incorrect
+      - school-specific administrative queries
+    school_contacts:
+      school_of_applied_science: sas.admin@napier.ac.uk
+      school_of_arts_creative_industries: saci@napier.ac.uk
+      school_of_computing_engineering_and_the_built_environment: scebeschooloffice@napier.ac.uk
+      school_of_health_social_care: shsc.admin@napier.ac.uk
+      the_business_school: passtbs@napier.ac.uk
+      doctoral_college: doctoralcollegeoffice@napier.ac.uk
+
+urgent_and_external_support:
+  - id: breathing_space
+    name: Breathing Space
+    category: crisis_and_emotional_support
+    availability: Mon-Thu 6pm-2am, Fri-Mon 6pm-6am
+    contact:
+      telephone: "0800 83 85 87"
+      website: https://www.breathingspace.scot
+
+  - id: edinburgh_crisis_centre
+    name: Edinburgh Crisis Centre
+    category: crisis_support
+    availability: 24 hours
+    contact:
+      freephone: "0808 801 0414"
+      text: "07974 429 075"
+      email: crisis@edinburghcrisiscentre.org.uk
+      website: https://www.edinburghcrisiscentre.org.uk
+
+  - id: hopeline_247
+    name: Hopeline247
+    category: suicidal_crisis_support
+    availability: 24 hours
+    contact:
+      telephone: "0800 068 4141"
+      website: https://papyrus-uk.org
+
+  - id: nhs_24
+    name: NHS 24
+    category: urgent_health_support
+    availability: 24 hours
+    contact:
+      telephone: "111"
+
+  - id: nightline
+    name: Nightline
+    category: student_peer_support
+    availability: During term time 8pm-8am
+    contact:
+      telephone: "0131 557 4444"
+      website: https://www.ednightline.com
+
+  - id: samaritans
+    name: Samaritans
+    category: crisis_and_emotional_support
+    availability: 24 hours
+    contact:
+      telephone: "116 123"
+      email: jo@samaritans.org
+      website: https://www.samaritans.org
+
+routing_hints:
+  - if student expresses immediate danger, use urgent_and_external_support first
+  - if issue is academic and non-urgent, prioritise PDT, Programme Leader, or Academic Skills
+  - if issue is emotional but non-crisis, suggest Counselling and Mental Wellbeing and Togetherall
+  - if result appears wrong, route to School Office or Programme Leader

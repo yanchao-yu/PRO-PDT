@@ -1,0 +1,182 @@
+entities:
+  concern_area:
+    values:
+      - grades
+      - exams
+      - coursework
+      - course_change
+      - withdrawal
+      - wellbeing
+      - reference
+      - meeting
+      - attendance
+      - finance
+      - disability_support
+      - module_choice
+      - results
+      - accommodation
+  urgency_level:
+    values:
+      - low
+      - medium
+      - high
+      - crisis
+  preferred_channel:
+    values:
+      - email
+      - in_person
+      - online
+      - phone
+  support_service:
+    values:
+      - pdt
+      - programme_leader
+      - school_office
+      - counselling_and_mental_wellbeing
+      - academic_skills
+      - student_futures
+      - emergency_support
+      - togetherall
+
+intents:
+  - name: ask_find_pdt
+    description: Student wants to know who their PDT is or how to find them
+    sample_utterances:
+      - How do I find my PDT
+      - I do not know who my tutor is
+      - Where can I see my personal tutor
+      - My PDT is not showing up
+    likely_entities:
+      - preferred_channel
+    expected_action:
+      - explain where to check
+      - suggest Moodle or eStudent records
+      - suggest contacting Programme Leader or School Office if missing
+
+  - name: ask_meeting_request
+    description: Student wants to arrange, prepare for, or reschedule a PDT meeting
+    sample_utterances:
+      - Can I book a meeting with my PDT
+      - What should I talk about in my PDT meeting
+      - I missed my tutor meeting
+      - Can we meet online instead
+    likely_entities:
+      - preferred_channel
+      - concern_area
+    expected_action:
+      - encourage contact
+      - suggest topics for discussion
+      - ask what the meeting is mainly about
+
+  - name: ask_grades_worry
+    description: Student is worried about grades, exams, or academic progress
+    sample_utterances:
+      - I am worried about my grades
+      - I think I might fail this module
+      - My exam went badly
+      - Can my PDT help if I am struggling academically
+    likely_entities:
+      - concern_area
+      - urgency_level
+    expected_action:
+      - acknowledge concern
+      - encourage discussion with PDT
+      - signpost academic skills or programme support
+
+  - name: ask_exam_results
+    description: Student asks about results, decision codes, or what results mean
+    sample_utterances:
+      - What does AF mean in my results
+      - My result looks wrong
+      - When do results come out
+      - Can my PDT explain my decision code
+    likely_entities:
+      - concern_area
+    expected_action:
+      - explain general result guidance if available
+      - advise contacting Programme Leader or School Office for specific issues
+
+  - name: ask_change_course
+    description: Student is considering changing programme or leaving university
+    sample_utterances:
+      - I want to change course
+      - I am thinking of leaving uni
+      - Can my PDT help me switch programme
+      - I do not think this course is right for me
+    likely_entities:
+      - concern_area
+      - urgency_level
+    expected_action:
+      - explore concern briefly
+      - signpost PDT and Programme Leader
+      - avoid promising administrative outcomes
+
+  - name: ask_reference
+    description: Student asks for an academic reference
+    sample_utterances:
+      - Can my PDT give me a reference
+      - I need a reference for a job
+      - Who should I ask for a uni reference
+      - Can you help me request a reference
+    likely_entities:
+      - concern_area
+    expected_action:
+      - confirm PDT may provide references
+      - suggest polite request and preparation details
+
+  - name: ask_wellbeing_support
+    description: Student describes stress, anxiety, low mood, or personal problems affecting study
+    sample_utterances:
+      - I am stressed and it is affecting my study
+      - I have too much going on personally
+      - I have been feeling really low lately
+      - I cannot focus because of things happening at home
+    likely_entities:
+      - concern_area
+      - urgency_level
+    expected_action:
+      - respond empathetically
+      - assess urgency
+      - signpost counselling, Togetherall, or emergency help if needed
+
+  - name: ask_learning_difficulty
+    description: Student suspects a learning difficulty or support need affecting study
+    sample_utterances:
+      - I think I might have dyslexia
+      - I struggle to keep up and I do not know why
+      - I think I need learning support
+      - My studies are being affected by a condition
+    likely_entities:
+      - concern_area
+      - urgency_level
+    expected_action:
+      - acknowledge concern
+      - suggest speaking to PDT and relevant support teams
+
+  - name: ask_support_service
+    description: Student asks where to get a specific type of help
+    sample_utterances:
+      - Who can help with my wellbeing
+      - Is there support for anxiety
+      - Where do I go for study skills help
+      - Is there any support out of hours
+    likely_entities:
+      - support_service
+      - urgency_level
+    expected_action:
+      - route to the most relevant service
+      - include urgent pathway if high risk
+
+  - name: high_risk_distress
+    description: Student expresses possible crisis, self-harm, suicidal thoughts, or immediate risk
+    sample_utterances:
+      - I do not feel safe tonight
+      - I want to hurt myself
+      - I cannot do this anymore
+      - I think someone is in danger
+    likely_entities:
+      - urgency_level
+    expected_action:
+      - immediate safety response
+      - direct to emergency and out-of-hours support
+      - avoid long exploratory dialogue

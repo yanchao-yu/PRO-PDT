@@ -1,0 +1,38 @@
+version: "3.1"
+
+stories:
+- story: PDT conversation
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: user_message
+  - action: action_pdt_response
+
+- story: Vision-triggered student mode
+  steps:
+  - intent: set_student_mode
+  - action: action_switch_to_student
+  - intent: user_message
+  - action: action_pdt_response
+
+- story: Vision-triggered staff mode
+  steps:
+  - intent: set_staff_mode
+  - action: action_switch_to_pdt
+  - intent: user_message
+  - action: action_pdt_response
+
+- story: Manual student mode switch
+  steps:
+  - intent: switch_to_student
+  - action: action_switch_to_student
+  - intent: user_message
+  - action: action_pdt_response
+
+- story: Manual PDT mode switch
+  steps:
+  - intent: switch_to_pdt
+  - action: action_switch_to_pdt
+  - intent: user_message
+  - action: action_pdt_response
+
