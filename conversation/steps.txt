@@ -1,0 +1,3 @@
+rasa run actions --port 5055
+rasa run --enable-api --cors "*" 
+python furhat_bridge.py

@@ -1,0 +1,46 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - user_message
+  - nlu_fallback
+  - switch_to_student
+  - switch_to_pdt
+  - set_student_mode
+  - set_staff_mode
+  - user_detected
+
+slots:
+  role_mode:
+    type: text
+    initial_value: pdt
+    influence_conversation: true
+    mappings:
+      - type: custom
+
+  user_name:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  user_role:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: custom
+      
+
+responses:
+  utter_greet:
+    - text: "Hi! I'm your Personal Development Tutor. What are you working on today?"
+  utter_goodbye:
+    - text: "Thanks for chatting. Hope I helped you solve some of your issues! Feel free to come back if you need any more advice."
+
+actions:
+  - action_user_detected
+  - action_pdt_response
+  - action_switch_to_student
+  - action_switch_to_pdt
+

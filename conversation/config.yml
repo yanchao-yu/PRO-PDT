@@ -1,0 +1,23 @@
+version: "3.1"
+
+recipe: default.v1
+
+language: en
+
+pipeline:
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: CountVectorsFeaturizer
+- name: DIETClassifier
+  epochs: 100
+- name: FallbackClassifier
+  threshold: 0.4
+
+policies:
+- name: MemoizationPolicy
+- name: RulePolicy
+  core_fallback_threshold: 0.3
+  core_fallback_action_name: action_pdt_response
+  enable_fallback_prediction: true
+
+assistant_id: 20260323-231244-friendly-double
