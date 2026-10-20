@@ -1,0 +1,14 @@
+{
+    "best_params": {
+        "lr_backbone": 4.0427095982153816e-05,
+        "lr_arcface": 0.00013472913464689117,
+        "weight_decay": 0.00011769689679347525,
+        "label_smoothing": 0.08511383579311559,
+        "arcface_m": 0.20425466140056883,
+        "arcface_s": 53.094149783741244,
+        "warmup_epochs": 4
+    },
+    "best_val_acc": 54.174653286729054,
+    "best_trial_number": 13,
+    "n_trials": 20
+}

@@ -1,0 +1,20 @@
+{
+    "timestamp": "2026-07-12_14-17-46",
+    "model": "ViT_Face_Transformer",
+    "dataset": "VGGFace2",
+    "split": "val",
+    "metrics": {
+        "accuracy": 0.03,
+        "precision": 0.06,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "extra_info": {
+        "num_classes": 480,
+        "num_val_samples": 21295,
+        "device": "cuda",
+        "weights_file": "src/weights/vit_face_best.pth",
+        "epochs_trained": 100,
+        "batch_size": 128
+    }
+}
